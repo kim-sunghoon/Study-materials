@@ -2,11 +2,8 @@
 신입생/인턴들을 위한 자료 모음
 ## Git 
 깃은 버전관리, 코드관리를 위해 필수 불가결한 도구로 사용되고 있습니다. 
-
 다루는 코드가 많고, 방대해지면 자신을 믿을 수 없게 됩니다...
-
 협업에도 중요한 역할을 합니다. 
-
 학교 계정을 통해 가입하면, 무료 private 저장소를 일정기간동안 줍니다. 졸업년도를 잘 입력합시다!
 
 처음 시작하는 단계에서는 계속 읽으면서 개념을 습득하는게 중요합니다. [1: Git 개요](https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/EaQqzn0Tk5xKiwJKjwRR5N4B1kQPZwFNs9WK-x8rM1sGMA?e=VewVHr), 
@@ -14,7 +11,7 @@
 
 이후 inflearn 강좌를 이용해 실습해보시면 됩니다. 
 Vivado를 이용할때 GUI때문에 Window에서 작업할 일이 많은데, 이때 Souretree를 이용하면 편리합니다. 
-서버에서는 GIT의 명령어들을 숙지하시면 됩니다. 
+서버에서는 Git CLI 명령어를 숙지하시면 됩니다. 
 
 * [Sourcetree 및 Git 기초](https://www.inflearn.com/course/git-and-github/)  
 * [지옥에서 돌아온 Git](https://www.inflearn.com/course/%EC%A7%80%EC%98%A5%EC%97%90%EC%84%9C-%EC%98%A8-git/)
@@ -35,6 +32,7 @@ Vivado를 이용할때 GUI때문에 Window에서 작업할 일이 많은데, 이
 ## C언어
 * [코딩도장 C](https://dojang.io/course/view.php?id=2)
 * [열혈 C]
+* [디버깅: GDB 사용하기]
 
 ## Python / Deep Learning 
 머신러닝 붐과 함께 핫하게 떠오르고 있는 언어입니다. 코드를 짜기 편리하고, Tensorflow, Pytorch 등 머신러닝 라이브러리 사용 및 하드웨어에 적합한 C언어로 변환하기 위해서 배워둘 필요가 있습니다. 
@@ -52,6 +50,7 @@ Vivado를 이용할때 GUI때문에 Window에서 작업할 일이 많은데, 이
 * [연습 문제들 모음](https://hdlbits.01xz.net/wiki/Main_Page)
 * [IDEC 2018 자료들](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EhxHE6dNYbBKkWHsAkr--AsBts9atLa5oYiKB8LzfZ1nBg?e=jNRFGP)
 * [Deep Learning & HW Accelerators](https://github.com/fengbintu/Neural-Networks-on-Silicon)
+* [PYNQ Work Shop](https://github.com/Xilinx/PYNQ_Workshop) 
 
 ### Back-end를 잘 하기 위해선? 프로그래밍을 잘해야 합니다. 
 * [알고리즘]
@@ -65,6 +64,12 @@ Vivado를 이용할때 GUI때문에 Window에서 작업할 일이 많은데, 이
 ### TCL 
 TCL은 Front-end, Back-end 등에서 사용할 툴들을 조작하는데 주로 사용됩니다. 
 * [TCL1](https://www.dropbox.com/sh/ej208jcrqd6o3xz/AAC1udUUn12vucdSTrymvER-a?dl=0) 
+### Screen 
+Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 사용합니다. 스크린을 사용하지 않을 경우 터미널을 끄거나 인터넷연결이 끊어지면, 다시 코드를 돌려야하는 불편이 생깁니다.
+* [Screen Summary1](https://wikidocs.net/13887)
+* [Screen Appendix1 Screen Copy mode](http://michael.thegrebs.com/2008/07/10/screen-copy-mode-can-copy/) 스크린 재 접속 후 얼마나 돌았나 확인하기 
+### How to Starting Tools Efficiently
+* [EDA tool without GUI](https://www.dropbox.com/s/wrlj8w3vyp06vm2/HowToStartUsingToolsEfficiently-v2.pdf?dl=0)
 
 ## Overleaf / Power Point / Excel
 글과 발표자료를 예쁘고 간결하게 만들며 데이터 정리를 잘 하는 것도 직장인/대학원생이 갖춰야할 능력 중 하나 입니다.
