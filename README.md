@@ -1,9 +1,11 @@
-# Cad and SoC Design Lab Tutorial
+# [Cad and SoC Design Lab Tutorial](soc.postech.ac.kr)
 신입생/인턴들을 위한 자료 모음
 ## Git 
 깃은 버전관리, 코드관리를 위해 필수 불가결한 도구로 사용되고 있습니다. 
 
-다루는 코드가 많고, 코드가 방대해지면 자신을 믿을 수 없게 됩니다. 협업에도 중요한 역할을 합니다. 
+다루는 코드가 많고, 방대해지면 자신을 믿을 수 없게 됩니다...
+
+협업에도 중요한 역할을 합니다. 
 
 학교 계정을 통해 가입하면, 무료 private 저장소를 일정기간동안 줍니다. 졸업년도를 잘 입력합시다!
 
@@ -14,7 +16,7 @@
 Vivado를 이용할때 GUI때문에 Window에서 작업할 일이 많은데, 이때 Souretree를 이용하면 편리합니다. 
 서버에서는 GIT의 명령어들을 숙지하시면 됩니다. 
 
-* [윈도우 Sourcetree 이용](https://www.inflearn.com/course/git-and-github/)  
+* [Sourcetree 및 Git 기초](https://www.inflearn.com/course/git-and-github/)  
 * [지옥에서 돌아온 Git](https://www.inflearn.com/course/%EC%A7%80%EC%98%A5%EC%97%90%EC%84%9C-%EC%98%A8-git/)
 * [버전관리시스템 Git](https://www.inflearn.com/course/git-2/)
 
@@ -26,9 +28,9 @@ Vivado를 이용할때 GUI때문에 Window에서 작업할 일이 많은데, 이
 * [scp 이용하기]
 
 ## Vim
-Linux서버를 이용해 코드작업하는 일이 많습니다. 간단한 vim 가이드를 소개합니다.
+서버에서 텍스트 편집기 Vim을 주로 사용합니다. 
 * [Simple Vim Guide](https://github.com/johngrib/simple_vim_guide/blob/master/README.md) 
-
+* [밤앙개 Vim](https://m.blog.naver.com/PostList.nhn?blogId=nfwscho&categoryNo=45&logCode=0) 
 
 ## C언어
 * [코딩도장 C](https://dojang.io/course/view.php?id=2)
@@ -70,4 +72,4 @@ TCL은 Front-end, Back-end 등에서 사용할 툴들을 조작하는데 주로 
 * [TCL1](https://www.dropbox.com/sh/ej208jcrqd6o3xz/AAC1udUUn12vucdSTrymvER-a?dl=0) 
 
 ## Etc.
-
+* [Deep Learning HW Accelerators](https://github.com/fengbintu/Neural-Networks-on-Silicon)  
