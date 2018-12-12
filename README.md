@@ -1,4 +1,4 @@
-# [Cad and SoC Design Lab Tutorial](soc.postech.ac.kr)
+# [Cad and SoC Design Lab Tutorial](http://soc.postech.ac.kr)
 신입생/인턴들을 위한 자료 모음
 ## Git 
 깃은 버전관리, 코드관리를 위해 필수 불가결한 도구로 사용되고 있습니다. 
