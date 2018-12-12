@@ -20,6 +20,10 @@ Vivado를 이용할때 GUI때문에 Window에서 작업할 일이 많은데 이�
 
 ## X-Shell을 통해 서버 접속하기
 서버에 접속하기 위해 터미널(X-Shell, Putty)등 터미널을 이용합니다. 
+* [X-shell v6](https://www.netsarang.co.kr/news/ver6_release.html) 학교, 가정용으로 다운
+* [서버접속하기]
+* [ftp 이용하기]
+* [scp 이용하기]
 
 ## Vim
 Linux서버를 이용해 코드작업하는 일이 많습니다. 간단한 vim 가이드를 소개합니다.
@@ -27,7 +31,8 @@ Linux서버를 이용해 코드작업하는 일이 많습니다. 간단한 vim �
 
 
 ## C언어
-
+* [코딩도장 C](https://dojang.io/course/view.php?id=2)
+* [열혈 C]
 
 ## Python / Deep Learning 
 머신러닝 붐과 함께 핫하게 떠오르고 있는 언어입니다. 코드를 짜기 편리하고, Tensorflow, Pytorch 등을 사용, C언어로 변환하기 위해서 배워둘 필요가 있습니다. 
@@ -50,10 +55,14 @@ Linux서버를 이용해 코드작업하는 일이 많습니다. 간단한 vim �
 * [자료구조]
 
 ## Overleaf / Power Point / Excel
-글과 발표자료를 예쁘고 간결하게 만들고 데이터 정리를 잘 하는 것도 대학원생이 갖춰야할 능력 중 하나 입니다.
-* [Overleaf Main](https://www.overleaf.com/) & [Tutorial](https://ko.overleaf.com/learn/latex/Main_Page)  
+글과 발표자료를 예쁘고 간결하게 만들며 데이터 정리를 잘 하는 것도 직장인/대학원생이 갖춰야할 능력 중 하나 입니다.
+* [Overleaf Main](https://www.overleaf.com/) & [Tutorial1](https://ko.overleaf.com/learn/latex/Main_Page) &[Tutorial2](https://www.dropbox.com/sh/x6bc2yik5x7w81u/AABG3tBJTkVss9hlpYjwm2MJa?dl=0)
 * [PowerPoint](https://www.inflearn.com/course/%ED%8C%8C%EC%9B%8C%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EA%B0%95%EC%A2%8C-quick-start/)
 * [Excel](https://www.inflearn.com/course/%EC%97%91%EC%85%80-%EA%B0%95%EC%A2%8C/)
+
+
+## Linux
+* [Linux 자료](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/Es4a1QxvLkBHqBsVsO5zuYgBDhTDqjGPtcnxS7Y2dpENxg?e=1LCcQW) 
 
 ## Etc.
 
