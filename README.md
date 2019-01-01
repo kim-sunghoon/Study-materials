@@ -31,7 +31,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 
 ## C언어
 * [코딩도장 C](https://dojang.io/course/view.php?id=2)
-* [열혈 C]
+* [Embedded C](http://www.seoulworkshop.org/tag/Embedded_C?fbclid=IwAR1w9VR1a3uBb8Y7vSM6ystwe_4gjCK9XstcvDjiMZcDpaKnFJrsYni87-o) 
 * [디버깅: GDB 사용하기]
 
 ## Python / Deep Learning 
