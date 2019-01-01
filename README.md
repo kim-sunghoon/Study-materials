@@ -20,7 +20,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 ## X-Shell을 통해 서버 접속하기
 서버에 접속하기 위해 터미널(X-Shell, Putty 등)을 이용합니다. 
 * [X-shell v6](https://www.netsarang.co.kr/news/ver6_release.html) 학교, 가정용으로 다운
-* [서버접속하기/ ftp 이용하기] (https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/EUCD4Nt_0w5OkyiSGQQpOy4B5DX_FqI5xWOn9UAo4AFw1w?e=XuxaiO)
+* [서버접속하기/ ftp 이용하기](https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/EUCD4Nt_0w5OkyiSGQQpOy4B5DX_FqI5xWOn9UAo4AFw1w?e=XuxaiO)
 
 ## Vim
 서버에서 텍스트 편집기 Vim을 주로 사용합니다. 
