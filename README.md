@@ -53,6 +53,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
   * [UsefulSite1: ETH Zurich](http://www.syssec.ethz.ch/education/Digitaltechnik_17.html) & [UsefulSite2: Cornell ECE4750](https://www.csl.cornell.edu/courses/ece4750/readings.html) & [UsefulSite3: Cornell ECE5745](https://www.csl.cornell.edu/courses/ece5745/handouts.html)
 
 ### Back-end를 잘 하기 위해선? 프로그래밍을 잘해야 합니다. 
+* [free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md?fbclid=IwAR1eEcSeLhYSkTps68RE3bjvGEuCGBU5QjpSIEEVIOJ_yCqoijc8wSKDXQs#vim) 
 * [알고리즘]
 * [자료구조]
 
