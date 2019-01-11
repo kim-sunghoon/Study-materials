@@ -4,7 +4,6 @@
 깃은 버전 관리, 코드 관리를 위해 필수 불가결한 도구로 사용되고 있습니다. 
 다루는 코드가 많고, 방대해지면 자신을 믿을 수 없게 됩니다... 협업에도 중요한 역할을 합니다. 
 
-학교 계정을 통해 가입하면, 무료 private 저장소를 일정 기간 동안 줍니다. 졸업연도를 잘 입력합시다!
 
 처음 시작하는 단계에서는 계속 읽으면서 개념을 습득하는 게 중요합니다. [1: Git 개요](https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/EaQqzn0Tk5xKiwJKjwRR5N4B1kQPZwFNs9WK-x8rM1sGMA?e=VewVHr), 
 [2: Summary 자료](https://github.com/KennethanCeyer/tutorial-git), [3: Curtis Kim, Git Introduction](https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/EZu9KhChZRFAgZg_R4r_YuwBh5DAXweMnoomIinHuKB15Q?e=jTvfCl)를 추천합니다. 대략적인 설명이 잘 되어있습니다.
