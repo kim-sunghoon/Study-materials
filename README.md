@@ -63,9 +63,9 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [Linux 자료](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/Es4a1QxvLkBHqBsVsO5zuYgBDhTDqjGPtcnxS7Y2dpENxg?e=1LCcQW) 
 
 ## Shell 명령어 
-### TCL & Using Tool without GUI
-TCL은 Front-end, Back-end 등에서 사용할 툴들을 조작하는데 주로 사용됩니다. 
-* [TCL Summary](https://www.dropbox.com/sh/ej208jcrqd6o3xz/AAC1udUUn12vucdSTrymvER-a?dl=0) 
+### Tcl & Using Tool without GUI
+Tcl은 Front-end, Back-end 등에서 사용할 툴들을 조작하는데 주로 사용됩니다. 
+* [Tcl Summary](https://www.dropbox.com/sh/ej208jcrqd6o3xz/AAC1udUUn12vucdSTrymvER-a?dl=0) 
 * [How to Start Using Tools Efficiently: EDA tool without GUI](https://www.dropbox.com/s/wrlj8w3vyp06vm2/HowToStartUsingToolsEfficiently-v2.pdf?dl=0)
 
 ### Screen 
