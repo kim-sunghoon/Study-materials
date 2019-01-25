@@ -29,6 +29,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 ## C언어
 * [코딩도장 C](https://dojang.io/course/view.php?id=2)
 * [Embedded C](http://www.seoulworkshop.org/tag/Embedded_C?fbclid=IwAR1w9VR1a3uBb8Y7vSM6ystwe_4gjCK9XstcvDjiMZcDpaKnFJrsYni87-o) 
+* [임베디드 프로그래밍 C 코드 최적화 eBook](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0001100000&sc.prdNo=250377090&sc.saNo=007&bnid1=book_2015&bnid2=bottom&bnid3=Author&bnid4=relate_book)
 * [디버깅: GDB 사용하기](http://blog.naver.com/PostView.nhn?blogId=shumin&logNo=220769056921&parentCategoryNo=&categoryNo=40&viewDate=&isShowPopularPosts=true&from=search)
 * [GCC 사용법](http://seolin.tistory.com/73)
 * [Makefile 만들기](http://bowbowbow.tistory.com/12)
