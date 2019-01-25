@@ -55,18 +55,23 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
   * [PYNQ Work Shop](https://github.com/Xilinx/PYNQ_Workshop) 
   * [UsefulSite1: ETH Zurich](http://www.syssec.ethz.ch/education/Digitaltechnik_17.html) & [UsefulSite2: Cornell ECE4750](https://www.csl.cornell.edu/courses/ece4750/readings.html) & [UsefulSite3: Cornell ECE5745](https://www.csl.cornell.edu/courses/ece5745/handouts.html)
 
+#### Xilinx 
+ * [Xilinx Design Hub](https://www.xilinx.com/support/documentation-navigation/design-hubs.html)
+ * [Xilinx Lab & Design Ref. Guide Download](https://www.xilinx.com/training/downloads.html)
+
 ### Back-end를 잘 하기 위해선? 프로그래밍을 잘해야 합니다. 
 * [free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md?fbclid=IwAR1eEcSeLhYSkTps68RE3bjvGEuCGBU5QjpSIEEVIOJ_yCqoijc8wSKDXQs#vim) 
-* [알고리즘]
+* [알고리즘 Deep Into Algorithm from MIT](https://www.edwith.org/introalgorithm)
 * [자료구조]
 
 
 ## Linux
 * [Linux 자료](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/Es4a1QxvLkBHqBsVsO5zuYgBDhTDqjGPtcnxS7Y2dpENxg?e=1LCcQW) 
-
+* [이것이 우분투 리눅스다](https://www.inflearn.com/course/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%9A%B0%EB%B6%84%ED%88%AC-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%8B%A4/)
+* [이것이 리눅스다](https://www.inflearn.com/course/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%8B%A4/)
 ## Shell 명령어 
 ### Tcl & Using Tool without GUI
-Tcl은 Front-end, Back-end 등에서 사용할 툴들을 조작하는데 주로 사용됩니다. 
+[Tcl(Tool Command Language)](https://ko.wikipedia.org/wiki/Tcl)은 Front-end, Back-end 등에서 사용할 툴들을 조작하는데 주로 사용됩니다. 
 * [Tcl Summary](https://www.dropbox.com/sh/ej208jcrqd6o3xz/AAC1udUUn12vucdSTrymvER-a?dl=0) 
 * [How to Start Using Tools Efficiently: EDA tool without GUI](https://www.dropbox.com/s/wrlj8w3vyp06vm2/HowToStartUsingToolsEfficiently-v2.pdf?dl=0)
 
