@@ -46,24 +46,22 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 [Ref](http://sharebook.kr/pages/viewpage.action?pageId=9437607)
 
 ### [Intro. to EDA Tools from IDEC](https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/ESZoiswddKFNnuuUAbuFEkABf2FO0CURwxHzSgMV8ZHdEA?e=cETyeJ)
-### HDL (Verilog Coding)
+### Front-end - HDL (Verilog Coding)
 * [문법 모음 사이트](http://verilog.renerta.com/source/vrg00038.htm) 
 * [연습 문제들 모음](https://hdlbits.01xz.net/wiki/Main_Page)
 * [IDEC 2018 자료들](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EhxHE6dNYbBKkWHsAkr--AsBts9atLa5oYiKB8LzfZ1nBg?e=jNRFGP)
+* Design of Digital Circuits & Computer Architecture 
+  - [Deep Learning & HW Accelerators](https://github.com/fengbintu/Neural-Networks-on-Silicon)
+  - [PYNQ Work Shop](https://github.com/Xilinx/PYNQ_Workshop) 
+  - [UsefulSite1: ETH Zurich](http://www.syssec.ethz.ch/education/Digitaltechnik_17.html) & [UsefulSite2: Cornell ECE4750](https://www.csl.cornell.edu/courses/ece4750/readings.html) & [UsefulSite3: Cornell ECE5745](https://www.csl.cornell.edu/courses/ece5745/handouts.html)
+* Xilinx 
+  - [Xilinx Design Hub](https://www.xilinx.com/support/documentation-navigation/design-hubs.html)
+  - [Xilinx Lab & Design Ref. Guide Download](https://www.xilinx.com/training/downloads.html)
 
-#### Design of Digital Circuits & Computer Architecture 
-  * [Deep Learning & HW Accelerators](https://github.com/fengbintu/Neural-Networks-on-Silicon)
-  * [PYNQ Work Shop](https://github.com/Xilinx/PYNQ_Workshop) 
-  * [UsefulSite1: ETH Zurich](http://www.syssec.ethz.ch/education/Digitaltechnik_17.html) & [UsefulSite2: Cornell ECE4750](https://www.csl.cornell.edu/courses/ece4750/readings.html) & [UsefulSite3: Cornell ECE5745](https://www.csl.cornell.edu/courses/ece5745/handouts.html)
-
-#### Xilinx 
- * [Xilinx Design Hub](https://www.xilinx.com/support/documentation-navigation/design-hubs.html)
- * [Xilinx Lab & Design Ref. Guide Download](https://www.xilinx.com/training/downloads.html)
-
-### Back-end를 잘 하기 위해선? 프로그래밍을 잘해야 합니다. 
-* [free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md?fbclid=IwAR1eEcSeLhYSkTps68RE3bjvGEuCGBU5QjpSIEEVIOJ_yCqoijc8wSKDXQs#vim) 
-* [알고리즘 Deep Into Algorithm from MIT](https://www.edwith.org/introalgorithm)
-* [자료구조]
+ ### Back-end를 잘 하기 위해선? 프로그래밍을 잘해야 합니다. 
+ * [free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md?fbclid=IwAR1eEcSeLhYSkTps68RE3bjvGEuCGBU5QjpSIEEVIOJ_yCqoijc8wSKDXQs#vim) 
+ * [Deep Into Algorithm from MIT](https://www.edwith.org/introalgorithm)
+ * [The Algorithms: Open Source Resource for Newbies to Learn Algorithms and Implement them in any Programming Language](https://github.com/TheAlgorithms)
 
 
 ## Linux
