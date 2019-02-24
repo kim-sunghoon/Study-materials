@@ -48,7 +48,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 ### [Intro. to EDA Tools from IDEC](https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/ESZoiswddKFNnuuUAbuFEkABf2FO0CURwxHzSgMV8ZHdEA?e=cETyeJ)
 ### Front-end - HDL (Verilog Coding)
 * [문법 모음 사이트](http://verilog.renerta.com/source/vrg00038.htm) 
-* [연습 문제들 모음](https://hdlbits.01xz.net/wiki/Main_Page)
+* [연습 문제 사이트 hdlbits!](https://hdlbits.01xz.net/wiki/Main_Page)
 * [IDEC 2018 자료들](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EhxHE6dNYbBKkWHsAkr--AsBts9atLa5oYiKB8LzfZ1nBg?e=jNRFGP)
 * Design of Digital Circuits & Computer Architecture 
   - [Deep Learning & HW Accelerators](https://github.com/fengbintu/Neural-Networks-on-Silicon)
@@ -75,7 +75,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [How to Start Using Tools Efficiently: EDA tool without GUI](https://www.dropbox.com/s/wrlj8w3vyp06vm2/HowToStartUsingToolsEfficiently-v2.pdf?dl=0)
 
 ### Screen 
-Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 사용합니다. 스크린을 사용하지 않을 경우 터미널을 끄거나 인터넷연결이 끊어지면, 다시 코드를 돌려야하는 불편이 생깁니다.
+Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 사용합니다. 스크린을 사용하지 않을 경우 사용 중인 터미널(X-Shell etc)을 끄거나 인터넷연결이 끊어지면 다시 코드를 돌려야합니다... 
 * [Screen Summary](https://wikidocs.net/13887)
 * [Screen Appendix1 Screen Copy mode](http://michael.thegrebs.com/2008/07/10/screen-copy-mode-can-copy/) 스크린 재 접속 후 얼마나 돌았나 확인하기 
 
