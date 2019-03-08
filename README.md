@@ -58,6 +58,8 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
   - [Xilinx Design Hub](https://www.xilinx.com/support/documentation-navigation/design-hubs.html)
   - [Xilinx Lab & Design Ref. Guide Download](https://www.xilinx.com/training/downloads.html)
 
+* Deep Learning and GPU
+  - [System Stack](https://github.com/zhangruiskyline/DeepLearning/blob/master/doc/system.md)
  ### Back-end를 잘 하기 위해선? 프로그래밍을 잘해야 합니다. 
  * [free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md?fbclid=IwAR1eEcSeLhYSkTps68RE3bjvGEuCGBU5QjpSIEEVIOJ_yCqoijc8wSKDXQs#vim) 
  * [Deep Into Algorithm from MIT](https://www.edwith.org/introalgorithm)
