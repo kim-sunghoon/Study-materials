@@ -33,6 +33,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [디버깅: GDB 사용하기](http://blog.naver.com/PostView.nhn?blogId=shumin&logNo=220769056921&parentCategoryNo=&categoryNo=40&viewDate=&isShowPopularPosts=true&from=search)
 * [GCC 사용법](http://seolin.tistory.com/73)
 * [Makefile 만들기](http://bowbowbow.tistory.com/12)
+* [생활코딩](https://opentutorials.org/course/1) 
 
 ## Python / Deep Learning 
 머신러닝 붐과 함께 핫하게 떠오르고 있는 언어입니다. 코드를 짜기 편리하고, Tensorflow, Pytorch 등 머신러닝 라이브러리 사용 및 하드웨어에 적합한 C언어로 변환하기 위해서 배워둘 필요가 있습니다. 
