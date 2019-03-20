@@ -34,7 +34,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [GCC 사용법](http://seolin.tistory.com/73)
 * [Makefile 만들기](http://bowbowbow.tistory.com/12)
 * [생활코딩](https://opentutorials.org/course/1) 
-
+* [OpenCV](https://www.youtube.com/playlist?list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2) 
 ## Python / Deep Learning 
 머신러닝 붐과 함께 핫하게 떠오르고 있는 언어입니다. 코드를 짜기 편리하고, Tensorflow, Pytorch 등 머신러닝 라이브러리 사용 및 하드웨어에 적합한 C언어로 변환하기 위해서 배워둘 필요가 있습니다. 
 * [K-Mooc: 데이터 과학을 위한 파이썬 입문](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC)
@@ -55,7 +55,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * Design of Digital Circuits & Computer Architecture 
   - [Deep Learning & HW Accelerators](https://github.com/fengbintu/Neural-Networks-on-Silicon)
   - [PYNQ Work Shop](https://github.com/Xilinx/PYNQ_Workshop) 
-  - [UsefulSite1: ETH Zurich](http://www.syssec.ethz.ch/education/Digitaltechnik_17.html) & [UsefulSite2: Cornell ECE4750](https://www.csl.cornell.edu/courses/ece4750/readings.html) & [UsefulSite3: Cornell ECE5745](https://www.csl.cornell.edu/courses/ece5745/handouts.html)
+  - [UsefulSite1: ETH Zurich](https://www.youtube.com/watch?v=g3yH68hAaSk&list=PL5Q2soXY2Zi9JXe3ywQMhylk_d5dI-TM7) & [UsefulSite2: Cornell ECE4750](https://www.csl.cornell.edu/courses/ece4750/readings.html) & [UsefulSite3: Cornell ECE5745](https://www.csl.cornell.edu/courses/ece5745/handouts.html)
 * Xilinx 
   - [Xilinx Design Hub](https://www.xilinx.com/support/documentation-navigation/design-hubs.html)
   - [Xilinx Lab & Design Ref. Guide Download](https://www.xilinx.com/training/downloads.html)
