@@ -30,11 +30,12 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [코딩도장 C](https://dojang.io/course/view.php?id=2)
 * [Embedded C](http://www.seoulworkshop.org/tag/Embedded_C?fbclid=IwAR1w9VR1a3uBb8Y7vSM6ystwe_4gjCK9XstcvDjiMZcDpaKnFJrsYni87-o) 
 * [임베디드 프로그래밍 C 코드 최적화 eBook](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0001100000&sc.prdNo=250377090&sc.saNo=007&bnid1=book_2015&bnid2=bottom&bnid3=Author&bnid4=relate_book)
-* [디버깅: GDB 사용하기](http://blog.naver.com/PostView.nhn?blogId=shumin&logNo=220769056921&parentCategoryNo=&categoryNo=40&viewDate=&isShowPopularPosts=true&from=search)
 * [GCC 사용법](http://seolin.tistory.com/73)
 * [Makefile 만들기](http://bowbowbow.tistory.com/12)
+* [디버깅: GDB 사용하기](http://blog.naver.com/PostView.nhn?blogId=shumin&logNo=220769056921&parentCategoryNo=&categoryNo=40&viewDate=&isShowPopularPosts=true&from=search)
 * [생활코딩](https://opentutorials.org/course/1) 
 * [OpenCV](https://www.youtube.com/playlist?list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2) 
+
 ## Python / Deep Learning 
 머신러닝 붐과 함께 핫하게 떠오르고 있는 언어입니다. 코드를 짜기 편리하고, Tensorflow, Pytorch 등 머신러닝 라이브러리 사용 및 하드웨어에 적합한 C언어로 변환하기 위해서 배워둘 필요가 있습니다. 
 * [K-Mooc: 데이터 과학을 위한 파이썬 입문](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC)
@@ -63,10 +64,10 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * Deep Learning and GPU
   - [System Stack](https://github.com/zhangruiskyline/DeepLearning/blob/master/doc/system.md)
  ### Back-end를 잘 하기 위해선? 프로그래밍을 잘해야 합니다. 
- * [free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md?fbclid=IwAR1eEcSeLhYSkTps68RE3bjvGEuCGBU5QjpSIEEVIOJ_yCqoijc8wSKDXQs#vim) 
+ * [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md?fbclid=IwAR1eEcSeLhYSkTps68RE3bjvGEuCGBU5QjpSIEEVIOJ_yCqoijc8wSKDXQs#vim) 
  * [Deep Into Algorithm from MIT](https://www.edwith.org/introalgorithm)
  * [The Algorithms: Open Source Resource for Newbies to Learn Algorithms and Implement them in any Programming Language](https://github.com/TheAlgorithms)
-
+ * [Programmers Coding Test](https://programmers.co.kr/learn/challenges) 
 
 ## Linux
 * [Linux 자료](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/Es4a1QxvLkBHqBsVsO5zuYgBDhTDqjGPtcnxS7Y2dpENxg?e=1LCcQW) 
