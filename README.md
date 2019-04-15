@@ -45,6 +45,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [논문으로 짚어보는 딥러닝의 맥](https://www.edwith.org/deeplearningchoi) 
 * [Stanford cs231n_17_KOR_SUB](https://github.com/insurgent92/CS231N_17_KOR_SUB?fbclid=IwAR1vbL12UiUKEcKlQgJafIHh5qwr8NfaOIGfDa11vJm8ACZmWpm8greFqG8)
 * [Stanford cs230 -Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks?fbclid=IwAR0nVQBbsFR271fNtsiewA9x1jnP0Hp0j0nkx47kWKkNA7turD-ksT0nyQY)
+* [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
 * [Anaconda 유용한 사용법!](https://provia.tistory.com/55) 
 * [이상화교수님 - 확률 및 통계](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)
 
