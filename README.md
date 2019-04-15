@@ -35,7 +35,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [디버깅: GDB 사용하기](http://blog.naver.com/PostView.nhn?blogId=shumin&logNo=220769056921&parentCategoryNo=&categoryNo=40&viewDate=&isShowPopularPosts=true&from=search)
 * [생활코딩](https://opentutorials.org/course/1) 
 * [OpenCV](https://www.youtube.com/playlist?list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2) 
-
+* [Darknet: Open Source Neural Networks in C](https://pjreddie.com/darknet/)
 ## Python / Deep Learning 
 머신러닝 붐과 함께 핫하게 떠오르고 있는 언어입니다. 코드를 짜기 편리하고, Tensorflow, Pytorch 등 머신러닝 라이브러리 사용 및 하드웨어에 적합한 C언어로 변환하기 위해서 배워둘 필요가 있습니다. 
 * [Python 대학 강의 모음 + Tips](https://github.com/yunho0130/Python_Lectures) 
@@ -46,6 +46,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [Stanford cs231n_17_KOR_SUB](https://github.com/insurgent92/CS231N_17_KOR_SUB?fbclid=IwAR1vbL12UiUKEcKlQgJafIHh5qwr8NfaOIGfDa11vJm8ACZmWpm8greFqG8)
 * [Stanford cs230 -Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks?fbclid=IwAR0nVQBbsFR271fNtsiewA9x1jnP0Hp0j0nkx47kWKkNA7turD-ksT0nyQY)
 * [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
+* [Pytorch로 시작하는 딥러닝](http://taewan.kim/tutorial_manual/dl_pytorch/)
 * [Anaconda 유용한 사용법!](https://provia.tistory.com/55) 
 * [이상화교수님 - 확률 및 통계](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)
 
