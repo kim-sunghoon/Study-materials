@@ -89,7 +89,9 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 ### Screen 
 Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 사용합니다. 스크린을 사용하지 않을 경우 사용 중인 터미널(X-Shell etc)을 끄거나 인터넷연결이 끊어지면 다시 코드를 돌려야합니다... 
 * [Screen Summary](https://wikidocs.net/13887)
-* [Screen Appendix1 Screen Copy mode](http://michael.thegrebs.com/2008/07/10/screen-copy-mode-can-copy/) 스크린 재 접속 후 얼마나 돌았나 확인하기 
+* Screen Copy mode, 스크린 재 접속 후 위에 어떤 작업이 진행됬는지 확인하기 
+  * Entering Copy Mode and Scrolling 
+    - By default, enter copy mode with *CRTL+a* then *ESC*. You can use vi like commands to navigate through the scollback buffer. The *arrows* and *PAGE UP/DOWN* should works as well. 
 
 
 ## Overleaf / Power Point / Excel
