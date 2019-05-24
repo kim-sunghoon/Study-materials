@@ -60,16 +60,24 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [연습 문제 사이트 hdlbits!](https://hdlbits.01xz.net/wiki/Main_Page)
 * [IDEC 2018 자료들](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EhxHE6dNYbBKkWHsAkr--AsBts9atLa5oYiKB8LzfZ1nBg?e=jNRFGP)
 * Design of Digital Circuits & Computer Architecture 
-  - [Deep Learning & HW Accelerators](https://github.com/fengbintu/Neural-Networks-on-Silicon)
+  - [**Papers: Deep Learning & HW Accelerators**](https://github.com/fengbintu/Neural-Networks-on-Silicon)
   - [PYNQ Work Shop](https://github.com/Xilinx/PYNQ_Workshop) 
+  - [*Yolo_v2 on PYNQ*](https://github.com/dhm2013724/yolov2_xilinx_fpga)
   - [UsefulSite1: ETH Zurich](https://www.youtube.com/watch?v=g3yH68hAaSk&list=PL5Q2soXY2Zi9JXe3ywQMhylk_d5dI-TM7) & [UsefulSite2: Cornell ECE4750](https://www.csl.cornell.edu/courses/ece4750/readings.html) & [UsefulSite3: Cornell ECE5745](https://www.csl.cornell.edu/courses/ece5745/handouts.html)
   - MIPS Instruction Set Architecture [1](https://www.youtube.com/watch?v=PlavjNH_RRU&list=PLylNWPMX1lPlmEeeMdbEFQo20eHAJL8hx) & [2](https://www.youtube.com/watch?v=qzSdglU0SBc&list=PLylNWPMX1lPnipZzKdCWRj2-un5xvLLdK)
-* Xilinx 
+  
+* [**Recipe for FPGA cooking**](https://github.com/lastweek/FPGA)
+* [**Neural Network Dataflow Scheduling**](https://github.com/stanford-mast/nn_dataflow)
+* **Xilinx & HLS** 
   - [Xilinx Design Hub](https://www.xilinx.com/support/documentation-navigation/design-hubs.html)
   - [Xilinx Lab & Design Ref. Guide Download](https://www.xilinx.com/training/downloads.html)
-
+  - [Scalable systolic array-based matrix-matrix multiplication implemented in Vivado HLS for Xilinx FPGAs](https://github.com/spcl/gemm_hls)
+  - [A collection of extensions for Vivado HLS and Intel FPGA OpenCL to improve developer quality of life](https://github.com/definelicht/hlslib)
 * Deep Learning and GPU
   - [System Stack](https://github.com/zhangruiskyline/DeepLearning/blob/master/doc/system.md)
+  
+  
+  
  ### Back-end를 잘 하기 위해선? 프로그래밍을 잘해야 합니다. 
  * [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md?fbclid=IwAR1eEcSeLhYSkTps68RE3bjvGEuCGBU5QjpSIEEVIOJ_yCqoijc8wSKDXQs#vim) 
  * [Deep Into Algorithm from MIT](https://www.edwith.org/introalgorithm)
