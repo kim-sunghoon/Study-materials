@@ -25,6 +25,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 서버에서 텍스트 편집기 Vim을 주로 사용합니다. 
 * [Simple Vim Guide](https://github.com/johngrib/simple_vim_guide/blob/master/README.md) 
 * [밤앙개 Vim](https://m.blog.naver.com/PostList.nhn?blogId=nfwscho&categoryNo=45&logCode=0) 
+* [자주 사용하는 플러그인 100](https://agvim.com/2017/09/05/vim-plugins-100/)
 
 ## C언어
 * [코딩도장 C](https://dojang.io/course/view.php?id=2)
