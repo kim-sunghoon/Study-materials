@@ -62,6 +62,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [IDEC 2018 자료들](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EhxHE6dNYbBKkWHsAkr--AsBts9atLa5oYiKB8LzfZ1nBg?e=jNRFGP)
 * Design of Digital Circuits & Computer Architecture 
   - [**Papers: Deep Learning & HW Accelerators**](https://github.com/fengbintu/Neural-Networks-on-Silicon)
+  - [Neural Network Accelerator Inference](https://nicsefc.ee.tsinghua.edu.cn/projects/neural-network-accelerator/)
   - [PYNQ Work Shop](https://github.com/Xilinx/PYNQ_Workshop) 
   - [*Yolo_v2 on PYNQ*](https://github.com/dhm2013724/yolov2_xilinx_fpga)
   - [UsefulSite1: ETH Zurich](https://www.youtube.com/watch?v=g3yH68hAaSk&list=PL5Q2soXY2Zi9JXe3ywQMhylk_d5dI-TM7) & [UsefulSite2: Cornell ECE4750](https://www.csl.cornell.edu/courses/ece4750/readings.html) & [UsefulSite3: Cornell ECE5745](https://www.csl.cornell.edu/courses/ece5745/handouts.html)
