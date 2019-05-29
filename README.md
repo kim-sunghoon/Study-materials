@@ -97,13 +97,27 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [How to Start Using Tools Efficiently: EDA tool without GUI](https://www.dropbox.com/s/wrlj8w3vyp06vm2/HowToStartUsingToolsEfficiently-v2.pdf?dl=0)
 
 ### Screen 
-Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 사용합니다. 스크린을 사용하지 않을 경우 사용 중인 터미널(X-Shell etc)을 끄거나 인터넷연결이 끊어지면 다시 코드를 돌려야합니다... 
+Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 사용합니다. 스크린을 사용하지 않을 경우 사용 중인 터미널(X-Shell etc)을 끄거나 인터넷연결이 끊어지면 다시 코드를 돌려야합니다. 
 * [Screen Summary](https://wikidocs.net/13887)
 * Screen Copy mode, 스크린 재 접속 후 위에 어떤 작업이 진행됬는지 확인하기 
   * Entering Copy Mode and Scrolling 
     - By default, enter copy mode with *CRTL+a* then *ESC*. You can use vi like commands to navigate through the scollback buffer. The *arrows* and *PAGE UP/DOWN* should works as well. 
 
-
+### Link File 생성 [[1]](https://webdir.tistory.com/148), [[2]](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_%EC%8B%AC%EB%B3%BC%EB%A6%AD%EB%A7%81%ED%81%AC_%EC%83%9D%EC%84%B1_%EC%8B%A4%EC%8A%B5), [[3]](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_%EC%8B%AC%EB%B3%BC%EB%A6%AD%EB%A7%81%ED%81%AC_%EC%82%AD%EC%A0%9C)
+윈도우의 바로가기와 비슷한 개념입니다. 크게 Hard Link, Softlink (symbolic link) 두 가지 링크 파일이 존재합니다.
+* 링크 생성하기 
+```shell
+사용법: $ ln [옵션] 원본 링크
+하드링크 $ ln 원본 링크 
+소프트링크 $ ln -s 원본 링크 
+``` 
+* 소프트링크 삭제하기
+  * **rm -f 로 삭제**
+  * **마지막에 /를 붙이면 안됨**
+  - *원본 폴더를 삭제하지 않도록 주의해야함 아래 명령어 수행시 원본파일 삭제됨* 
+``` shell
+$ rm -rf myfolderlink/  --> Bad End 
+``` 
 ## Overleaf / Power Point / Excel
 글과 발표자료를 예쁘고 간결하게 만들며 데이터 정리를 잘 하는 것도 직장인/대학원생이 갖춰야할 능력 중 하나 입니다.
 * [Overleaf Main](https://www.overleaf.com/) & [Tutorial1](https://ko.overleaf.com/learn/latex/Main_Page) &[Tutorial2](https://www.dropbox.com/sh/x6bc2yik5x7w81u/AABG3tBJTkVss9hlpYjwm2MJa?dl=0) & [Tips1](https://github.com/Wookai/paper-tips-and-tricks)
@@ -111,3 +125,4 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Excel](https://www.inflearn.com/course/%EC%97%91%EC%85%80-%EA%B0%95%EC%A2%8C/)
 * [WaveDrom: Digital Timing Diagram](https://wavedrom.com/) & [관련](https://dreamsailor.tistory.com/5)
 * [Draw.io: visio 대안 무료 Drawing Program](https://www.draw.io/)  &  [관련](https://blog.naver.com/PostView.nhn?blogId=julian_dev&logNo=221461148445&parentCategoryNo=&categoryNo=7&viewDate=&isShowPopularPosts=true&from=search)
+* [마크다운 사용하기](https://heropy.blog/2017/09/30/markdown/)
