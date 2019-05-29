@@ -114,10 +114,8 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * 소프트링크 삭제하기
   * **rm -f 로 삭제**
   * **마지막에 /를 붙이면 안됨**
-  - *원본 폴더를 삭제하지 않도록 주의해야함 아래 명령어 수행시 원본파일 삭제됨* 
-``` shell
-$ rm -rf myfolderlink/  --> Bad End 
-``` 
+  - *원본 폴더를 삭제하지 않도록 주의해야함 아래 명령어 수행시 원본파일 삭제됨* `$ rm -rf myfolderlink/  --> Bad End`
+  
 ## Overleaf / Power Point / Excel
 글과 발표자료를 예쁘고 간결하게 만들며 데이터 정리를 잘 하는 것도 직장인/대학원생이 갖춰야할 능력 중 하나 입니다.
 * [Overleaf Main](https://www.overleaf.com/) & [Tutorial1](https://ko.overleaf.com/learn/latex/Main_Page) &[Tutorial2](https://www.dropbox.com/sh/x6bc2yik5x7w81u/AABG3tBJTkVss9hlpYjwm2MJa?dl=0) & [Tips1](https://github.com/Wookai/paper-tips-and-tricks)
