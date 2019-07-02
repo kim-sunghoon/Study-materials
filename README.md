@@ -26,8 +26,9 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [Simple Vim Guide](https://github.com/johngrib/simple_vim_guide/blob/master/README.md) 
 * [밤앙개 Vim](https://m.blog.naver.com/PostList.nhn?blogId=nfwscho&categoryNo=45&logCode=0) 
 * [자주 사용하는 플러그인 100](https://agvim.com/2017/09/05/vim-plugins-100/)
-
-## C언어
+* [Dotfiles/Plugin Auto install](https://github.com/kim-sunghoon/dotfiles)
+  - only works in HDL and CNN server 
+ ## C언어
 * [코딩도장 C](https://dojang.io/course/view.php?id=2)
 * [Embedded C](http://www.seoulworkshop.org/tag/Embedded_C?fbclid=IwAR1w9VR1a3uBb8Y7vSM6ystwe_4gjCK9XstcvDjiMZcDpaKnFJrsYni87-o) 
 * [임베디드 프로그래밍 C 코드 최적화 eBook](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0001100000&sc.prdNo=250377090&sc.saNo=007&bnid1=book_2015&bnid2=bottom&bnid3=Author&bnid4=relate_book)
