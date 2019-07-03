@@ -28,7 +28,8 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [자주 사용하는 플러그인 100](https://agvim.com/2017/09/05/vim-plugins-100/)
 * [Dotfiles/Plugin Auto install](https://github.com/kim-sunghoon/dotfiles)
   - only works in HDL and CNN server 
- ## C언어
+
+## C언어
 * [코딩도장 C](https://dojang.io/course/view.php?id=2)
 * [Embedded C](http://www.seoulworkshop.org/tag/Embedded_C?fbclid=IwAR1w9VR1a3uBb8Y7vSM6ystwe_4gjCK9XstcvDjiMZcDpaKnFJrsYni87-o) 
 * [임베디드 프로그래밍 C 코드 최적화 eBook](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0001100000&sc.prdNo=250377090&sc.saNo=007&bnid1=book_2015&bnid2=bottom&bnid3=Author&bnid4=relate_book)
@@ -38,19 +39,25 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [생활코딩](https://opentutorials.org/course/1) 
 * [OpenCV](https://www.youtube.com/playlist?list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2) 
 * [Darknet: Open Source Neural Networks in C](https://pjreddie.com/darknet/)
-## Python / Deep Learning 
-머신러닝 붐과 함께 핫하게 떠오르고 있는 언어입니다. 코드를 짜기 편리하고, Tensorflow, Pytorch 등 머신러닝 라이브러리 사용 및 하드웨어에 적합한 C언어로 변환하기 위해서 배워둘 필요가 있습니다. 
+
+## Python
 * [Python 대학 강의 모음 + Tips](https://github.com/yunho0130/Python_Lectures) 
 * [K-Mooc: 데이터 과학을 위한 파이썬 입문](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC)
 * [pyCheckiO - python quiz](https://py.checkio.org/)
+* [Anaconda 유용한 사용법](https://provia.tistory.com/55) 
+
+## Machine Learning / Deep Learning 
 * [머신러닝과 딥러닝 BASIC](https://www.edwith.org/others26)
+* [GIST yongyi lee 머신러닝 BASIC] - [Slide](https://drive.google.com/file/d/1dLypFb0WS25_y1wL4uyzlhjByB7qCe4W/view?fbclid=IwAR1dJJI2O2YsX7js-ZRwRXsULxHOxHx_Q-6ur0DCCCV8ULMixFqhwB_PJvU), [Youtube](https://www.youtube.com/watch?v=hJH4w6mXIoE&feature=youtu.be&fbclid=IwAR0ln4NDNyfRSx8lae-nOObs2crAPXcbTA0D0_NHWuwo1nA61Hoxk2hEhk4)
+* [역전파 알고리즘 완전정복](https://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/BP/bp.ipynb?fbclid=IwAR1KMcFHPJs5St-RMKDHODe7L4bWhVM27j_lDCRmGCBK4tb2lbsWs8E3ocY) 
 * [논문으로 짚어보는 딥러닝의 맥](https://www.edwith.org/deeplearningchoi) 
 * [Stanford cs231n_17_KOR_SUB](https://github.com/insurgent92/CS231N_17_KOR_SUB?fbclid=IwAR1vbL12UiUKEcKlQgJafIHh5qwr8NfaOIGfDa11vJm8ACZmWpm8greFqG8)
 * [Stanford cs230 -Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks?fbclid=IwAR0nVQBbsFR271fNtsiewA9x1jnP0Hp0j0nkx47kWKkNA7turD-ksT0nyQY)
 * [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
 * [Pytorch로 시작하는 딥러닝](http://taewan.kim/tutorial_manual/dl_pytorch/)
-* [Anaconda 유용한 사용법!](https://provia.tistory.com/55) 
 * [이상화교수님 - 확률 및 통계](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)
+* [State of AI Report 2019.06.28](https://www.slideshare.net/StateofAIReport/state-of-ai-report-2019-151804430?utm_campaign=nathan.ai+newsletter&utm_medium=email&utm_source=Revue+newsletter&fbclid=IwAR0jZ2j9B_bvukhtyz9UixUa1rWzE4zChSvyqIK0uA-XtleeC5WOII1DC3I)
+* [An Overview of Google's Work and AutoML and Future Directions / ICML 2019](https://slideslive.com/38917182/an-overview-of-googles-work-on-automl-and-future-directions) 
 
 ## 하드웨어란?
 범용적으로 사용할 수 있는 소프트웨어와 달리 하드웨어는 특수한 목적으로 동작하는 장치입니다. 만드는데 오랜 시간과 많은 비용이 소모되지만 저전력으로 높은 성능을 얻을 수 있어 하드웨어를 사용합니다. 하드웨어는 개발 단계가 진행될 수록 버그를 찾기 힘들며, 수정하기 어렵고, 수정 비용이 크게 증가합니다. 따라서 각각의 개발 프로세스를 이해하고 준수하는 일이 무엇보다 중요합니다. 하드웨어를 설계하는 과정은 크게 Front-end와 Back-end 두 가지로 구분할 수 있습니다. Front-end는 하드웨어의 스펙과 동작을 정의해서 논리 회로로 구성된 netlist를 만들어내는 과정이며, Back-end는 설계된 로직을 실제 Die로 배치하는 등의 물리적인일을 담당합니다. 빌딩을 짓는 과정으로 예를 들면 건물의 크기 등의 스펙을 결정한 후 캐드등의 툴을 사용해서 도면을 그려보는 과정이 front-end 입니다. 설계 의도에 따라 아파트가 될 수 도있고 주상복합이 될 수있는 것처럼 어떤 하드웨어를 만들 것인지 명확한 정의가 필요한 과정입니다. 이어서 도면과 설계도를 기반으로 건물을 완성하는 과정이 back-end 입니다. 일을 하는 순서, 혹은 재료를 공급하는 시기 적절함에 따라 작업의 효율성이 달라질 수 있으며, 마감 처리등에 따라 완성도 (성능)가 달라질 수 있습니다. back-end는 설계 의도를 반영해서 물리적인 하드웨어 chip을 만드는 과정입니다.
