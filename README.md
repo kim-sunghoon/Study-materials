@@ -15,6 +15,9 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [Sourcetree 및 Git 기초](https://www.inflearn.com/course/git-and-github/)  
 * [지옥에서 돌아온 Git](https://www.inflearn.com/course/%EC%A7%80%EC%98%A5%EC%97%90%EC%84%9C-%EC%98%A8-git/)
 * [버전관리시스템 Git](https://www.inflearn.com/course/git-2/)
+---
+* [GitHub Cheat Sheet](https://github.com/yunho0130/github-cheat-sheet/blob/master/README.ko.md) 
+
 
 ## X-Shell을 통해 서버 접속하기
 서버에 접속하기 위해 터미널(X-Shell, Putty 등)을 이용합니다. 
@@ -27,7 +30,8 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [밤앙개 Vim](https://m.blog.naver.com/PostList.nhn?blogId=nfwscho&categoryNo=45&logCode=0) 
 * [자주 사용하는 플러그인 100](https://agvim.com/2017/09/05/vim-plugins-100/)
 * [Dotfiles/Plugin Auto install](https://github.com/kim-sunghoon/dotfiles)
-  - only works in HDL and CNN server 
+  - only works @ HDL and CNN server
+
 
 ## C언어
 * [코딩도장 C](https://dojang.io/course/view.php?id=2)
@@ -78,11 +82,24 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
   
 * [**Recipe for FPGA cooking**](https://github.com/lastweek/FPGA)
 * [**Neural Network Dataflow Scheduling**](https://github.com/stanford-mast/nn_dataflow)
-* **Xilinx & HLS** 
+* **Xilinx Vivado**
+  - [ug939-Vivado Design Suite Tutorial: Designing with IP](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug939-vivado-designing-with-ip-tutorial.pdf) 
+  - [ug1119-Vivado Design Suite Tutorial: Creating and Packaging Custom IP](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug1119-vivado-creating-packaging-ip-tutorial.pdf) 
+  - [ug940-Embedded Processor HW Design](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug940-vivado-tutorial-embedded-design.pdf#%5B%7B%22num%22%3A113%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C51%2C720%2C0%5D)
+  
+* **Xilinx High Level Synthesis** 
+  - [Cornell Z. Zhang 2018](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EqACs4rcczpIvayXAZpnoqMBgzRmGcsJuFoyGh9P3IXpVA?e=JJ9uH0)
+
+  - [CMU J.C. Hoe 2017](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EsAQpr6_4qJIvpPa4_PHcx8BJe2K9FyGJYkNPZsHFmND0Q?e=V3UTh3) 
+  - [ug871-xilinx HLS tutorial](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug871-vivado-high-level-synthesis-tutorial.pdf)
+  - [ug1197-UltraFast High-Level Productivity Design Methodology Guide](https://www.xilinx.com/support/documentation/sw_manuals/ug1197-vivado-high-level-productivity.pdf)
+  - [Xilinx/CHaiDNN-HLS based Deep Neural Network Accelerator Library for Xilinx Ultrascale+ MPSoCs](https://github.com/Xilinx/CHaiDNN) 
+  --- 
   - [Xilinx Design Hub](https://www.xilinx.com/support/documentation-navigation/design-hubs.html)
   - [Xilinx Lab & Design Ref. Guide Download](https://www.xilinx.com/training/downloads.html)
   - [Scalable systolic array-based matrix-matrix multiplication implemented in Vivado HLS for Xilinx FPGAs](https://github.com/spcl/gemm_hls)
   - [A collection of extensions for Vivado HLS and Intel FPGA OpenCL to improve developer quality of life](https://github.com/definelicht/hlslib)
+
 * Deep Learning and GPU
   - [System Stack](https://github.com/zhangruiskyline/DeepLearning/blob/master/doc/system.md)
   
@@ -122,7 +139,9 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * 소프트링크 삭제하기
   * **rm -f 로 삭제**
   * **마지막에 /를 붙이면 안됨**
-  - *원본 폴더를 삭제하지 않도록 주의해야함 아래 명령어 수행시 원본파일 삭제됨* `$ rm -rf myfolderlink/  --> Bad End`
+  - **원본 폴더를 삭제하지 않도록 주의해야함 아래 명령어 수행시 원본파일 삭제됨** 
+  
+    ```$ rm -rf myfolderlink/  --> Bad End```
   
 ## Overleaf / Power Point / Excel
 글과 발표자료를 예쁘고 간결하게 만들며 데이터 정리를 잘 하는 것도 직장인/대학원생이 갖춰야할 능력 중 하나 입니다.
@@ -131,4 +150,4 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Excel](https://www.inflearn.com/course/%EC%97%91%EC%85%80-%EA%B0%95%EC%A2%8C/)
 * [WaveDrom: Digital Timing Diagram](https://wavedrom.com/) & [관련](https://dreamsailor.tistory.com/5)
 * [Draw.io: visio 대안 무료 Drawing Program](https://www.draw.io/)  &  [관련](https://blog.naver.com/PostView.nhn?blogId=julian_dev&logNo=221461148445&parentCategoryNo=&categoryNo=7&viewDate=&isShowPopularPosts=true&from=search)
-* [마크다운 사용하기](https://heropy.blog/2017/09/30/markdown/)
+* [Markdown1](https://heropy.blog/2017/09/30/markdown/) & [Markdown2](https://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/) 
