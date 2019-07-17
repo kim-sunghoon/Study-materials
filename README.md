@@ -49,7 +49,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [K-Mooc: 데이터 과학을 위한 파이썬 입문](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC)
 * [pyCheckiO - python quiz](https://py.checkio.org/)
 * [Anaconda 유용한 사용법](https://provia.tistory.com/55) 
-
+* [파이썬 클린코드](http://www.yes24.com/Product/goods/69064790) - [git](https://github.com/PacktPublishing/Clean-Code-in-Python)
 ## Machine Learning / Deep Learning 
 * [머신러닝과 딥러닝 BASIC](https://www.edwith.org/others26)
 * [GIST yongyi lee 머신러닝 BASIC] - [Slide](https://drive.google.com/file/d/1dLypFb0WS25_y1wL4uyzlhjByB7qCe4W/view?fbclid=IwAR1dJJI2O2YsX7js-ZRwRXsULxHOxHx_Q-6ur0DCCCV8ULMixFqhwB_PJvU), [Youtube](https://www.youtube.com/watch?v=hJH4w6mXIoE&feature=youtu.be&fbclid=IwAR0ln4NDNyfRSx8lae-nOObs2crAPXcbTA0D0_NHWuwo1nA61Hoxk2hEhk4)
