@@ -15,7 +15,6 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [Sourcetree 및 Git 기초](https://www.inflearn.com/course/git-and-github/)  
 * [지옥에서 돌아온 Git](https://www.inflearn.com/course/%EC%A7%80%EC%98%A5%EC%97%90%EC%84%9C-%EC%98%A8-git/)
 * [버전관리시스템 Git](https://www.inflearn.com/course/git-2/)
----
 * [GitHub Cheat Sheet](https://github.com/yunho0130/github-cheat-sheet/blob/master/README.ko.md) 
 
 
@@ -63,15 +62,21 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [State of AI Report 2019.06.28](https://www.slideshare.net/StateofAIReport/state-of-ai-report-2019-151804430?utm_campaign=nathan.ai+newsletter&utm_medium=email&utm_source=Revue+newsletter&fbclid=IwAR0jZ2j9B_bvukhtyz9UixUa1rWzE4zChSvyqIK0uA-XtleeC5WOII1DC3I)
 * [An Overview of Google's Work and AutoML and Future Directions / ICML 2019](https://slideslive.com/38917182/an-overview-of-googles-work-on-automl-and-future-directions) 
 
+--- 
+
 ## 하드웨어란?
 범용적으로 사용할 수 있는 소프트웨어와 달리 하드웨어는 특수한 목적으로 동작하는 장치입니다. 만드는데 오랜 시간과 많은 비용이 소모되지만 저전력으로 높은 성능을 얻을 수 있어 하드웨어를 사용합니다. 하드웨어는 개발 단계가 진행될 수록 버그를 찾기 힘들며, 수정하기 어렵고, 수정 비용이 크게 증가합니다. 따라서 각각의 개발 프로세스를 이해하고 준수하는 일이 무엇보다 중요합니다. 하드웨어를 설계하는 과정은 크게 Front-end와 Back-end 두 가지로 구분할 수 있습니다. Front-end는 하드웨어의 스펙과 동작을 정의해서 논리 회로로 구성된 netlist를 만들어내는 과정이며, Back-end는 설계된 로직을 실제 Die로 배치하는 등의 물리적인일을 담당합니다. 빌딩을 짓는 과정으로 예를 들면 건물의 크기 등의 스펙을 결정한 후 캐드등의 툴을 사용해서 도면을 그려보는 과정이 front-end 입니다. 설계 의도에 따라 아파트가 될 수 도있고 주상복합이 될 수있는 것처럼 어떤 하드웨어를 만들 것인지 명확한 정의가 필요한 과정입니다. 이어서 도면과 설계도를 기반으로 건물을 완성하는 과정이 back-end 입니다. 일을 하는 순서, 혹은 재료를 공급하는 시기 적절함에 따라 작업의 효율성이 달라질 수 있으며, 마감 처리등에 따라 완성도 (성능)가 달라질 수 있습니다. back-end는 설계 의도를 반영해서 물리적인 하드웨어 chip을 만드는 과정입니다.
 [Ref](http://sharebook.kr/pages/viewpage.action?pageId=9437607)
 
 ### [Intro. to EDA Tools from IDEC](https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/ESZoiswddKFNnuuUAbuFEkABf2FO0CURwxHzSgMV8ZHdEA?e=cETyeJ)
+
 ### Front-end - HDL (Verilog Coding)
 * [문법 모음 사이트](http://verilog.renerta.com/source/vrg00038.htm) 
 * [연습 문제 사이트 hdlbits!](https://hdlbits.01xz.net/wiki/Main_Page)
 * [IDEC 2018 자료들](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EhxHE6dNYbBKkWHsAkr--AsBts9atLa5oYiKB8LzfZ1nBg?e=jNRFGP)
+
+* [**Recipe for FPGA cooking**](https://github.com/lastweek/FPGA)
+
 * Design of Digital Circuits & Computer Architecture 
   - [**Papers: Deep Learning & HW Accelerators**](https://github.com/fengbintu/Neural-Networks-on-Silicon)
   - [Neural Network Accelerator Inference](https://nicsefc.ee.tsinghua.edu.cn/projects/neural-network-accelerator/)
@@ -80,22 +85,20 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
   - [UsefulSite1: ETH Zurich](https://www.youtube.com/watch?v=g3yH68hAaSk&list=PL5Q2soXY2Zi9JXe3ywQMhylk_d5dI-TM7) & [UsefulSite2: Cornell ECE4750](https://www.csl.cornell.edu/courses/ece4750/readings.html) & [UsefulSite3: Cornell ECE5745](https://www.csl.cornell.edu/courses/ece5745/handouts.html)
   - MIPS Instruction Set Architecture [1](https://www.youtube.com/watch?v=PlavjNH_RRU&list=PLylNWPMX1lPlmEeeMdbEFQo20eHAJL8hx) & [2](https://www.youtube.com/watch?v=qzSdglU0SBc&list=PLylNWPMX1lPnipZzKdCWRj2-un5xvLLdK)
   
-* [**Recipe for FPGA cooking**](https://github.com/lastweek/FPGA)
+
 * [**Neural Network Dataflow Scheduling**](https://github.com/stanford-mast/nn_dataflow)
 * **Xilinx Vivado**
   - [ug939-Vivado Design Suite Tutorial: Designing with IP](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug939-vivado-designing-with-ip-tutorial.pdf) 
   - [ug1119-Vivado Design Suite Tutorial: Creating and Packaging Custom IP](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug1119-vivado-creating-packaging-ip-tutorial.pdf) 
   - [ug940-Embedded Processor HW Design](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug940-vivado-tutorial-embedded-design.pdf#%5B%7B%22num%22%3A113%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C51%2C720%2C0%5D)
+  - [Xilinx Video Series](https://forums.xilinx.com/t5/Video/Xilinx-Video-Series/td-p/849583) 
   
 * **Xilinx High Level Synthesis** 
   - [Cornell Z. Zhang 2018](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EqACs4rcczpIvayXAZpnoqMBgzRmGcsJuFoyGh9P3IXpVA?e=JJ9uH0)
-
   - [CMU J.C. Hoe 2017](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EsAQpr6_4qJIvpPa4_PHcx8BJe2K9FyGJYkNPZsHFmND0Q?e=V3UTh3) 
   - [ug871-xilinx HLS tutorial](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug871-vivado-high-level-synthesis-tutorial.pdf)
   - [ug1197-UltraFast High-Level Productivity Design Methodology Guide](https://www.xilinx.com/support/documentation/sw_manuals/ug1197-vivado-high-level-productivity.pdf)
   - [Xilinx/CHaiDNN-HLS based Deep Neural Network Accelerator Library for Xilinx Ultrascale+ MPSoCs](https://github.com/Xilinx/CHaiDNN) 
-  --- 
-  - [Xilinx Design Hub](https://www.xilinx.com/support/documentation-navigation/design-hubs.html)
   - [Xilinx Lab & Design Ref. Guide Download](https://www.xilinx.com/training/downloads.html)
   - [Scalable systolic array-based matrix-matrix multiplication implemented in Vivado HLS for Xilinx FPGAs](https://github.com/spcl/gemm_hls)
   - [A collection of extensions for Vivado HLS and Intel FPGA OpenCL to improve developer quality of life](https://github.com/definelicht/hlslib)
@@ -104,17 +107,19 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
   - [System Stack](https://github.com/zhangruiskyline/DeepLearning/blob/master/doc/system.md)
   
   
-  
+ --- 
  ### Back-end를 잘 하기 위해선? 프로그래밍을 잘해야 합니다. 
  * [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md?fbclid=IwAR1eEcSeLhYSkTps68RE3bjvGEuCGBU5QjpSIEEVIOJ_yCqoijc8wSKDXQs#vim) 
  * [Deep Into Algorithm from MIT](https://www.edwith.org/introalgorithm)
  * [The Algorithms: Open Source Resource for Newbies to Learn Algorithms and Implement them in any Programming Language](https://github.com/TheAlgorithms)
  * [Programmers Coding Test](https://programmers.co.kr/learn/challenges) 
 
+---
 ## Linux
 * [Linux 자료](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/Es4a1QxvLkBHqBsVsO5zuYgBDhTDqjGPtcnxS7Y2dpENxg?e=1LCcQW) 
 * [이것이 우분투 리눅스다](https://www.inflearn.com/course/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%9A%B0%EB%B6%84%ED%88%AC-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%8B%A4/)
 * [이것이 리눅스다](https://www.inflearn.com/course/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%8B%A4/)
+
 ## Shell 명령어 
 ### Tcl & Using Tool without GUI
 [Tcl (Tool Command Language)](https://ko.wikipedia.org/wiki/Tcl)은 Front-end, Back-end 등에서 사용할 툴들을 조작하는데 주로 사용됩니다. 
@@ -142,7 +147,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
   - **원본 폴더를 삭제하지 않도록 주의해야함 아래 명령어 수행시 원본파일 삭제됨** 
   
     ```$ rm -rf myfolderlink/  --> Bad End```
-  
+---   
 ## Overleaf / Power Point / Excel
 글과 발표자료를 예쁘고 간결하게 만들며 데이터 정리를 잘 하는 것도 직장인/대학원생이 갖춰야할 능력 중 하나 입니다.
 * [Overleaf Main](https://www.overleaf.com/) & [Tutorial1](https://ko.overleaf.com/learn/latex/Main_Page) &[Tutorial2](https://www.dropbox.com/sh/x6bc2yik5x7w81u/AABG3tBJTkVss9hlpYjwm2MJa?dl=0) & [Tips1](https://github.com/Wookai/paper-tips-and-tricks)
