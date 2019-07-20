@@ -87,7 +87,9 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
   
 
 * [**Neural Network Dataflow Scheduling**](https://github.com/stanford-mast/nn_dataflow)
+
 * **Xilinx Vivado**
+  - [Xilinx University Program](https://www.xilinx.com/support/university/vivado/vivado-workshops.html)
   - [ug939-Vivado Design Suite Tutorial: Designing with IP](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug939-vivado-designing-with-ip-tutorial.pdf) 
   - [ug1119-Vivado Design Suite Tutorial: Creating and Packaging Custom IP](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug1119-vivado-creating-packaging-ip-tutorial.pdf) 
   - [ug940-Embedded Processor HW Design](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug940-vivado-tutorial-embedded-design.pdf#%5B%7B%22num%22%3A113%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C51%2C720%2C0%5D)
@@ -105,7 +107,8 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 
 * Deep Learning and GPU
   - [System Stack](https://github.com/zhangruiskyline/DeepLearning/blob/master/doc/system.md)
-  
+
+* [이니프로 카페](https://cafe.naver.com/plduser/14517)  
   
  --- 
  ### Back-end를 잘 하기 위해선? 프로그래밍을 잘해야 합니다. 
