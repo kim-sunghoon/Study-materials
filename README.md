@@ -23,6 +23,10 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [X-shell v6](https://www.netsarang.co.kr/news/ver6_release.html) 학교, 가정용으로 다운
 * [서버접속하기/ ftp 이용하기](https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/EUCD4Nt_0w5OkyiSGQQpOy4B5DX_FqI5xWOn9UAo4AFw1w?e=XuxaiO)
 
+## VNC를 통해 서버 접속하기
+응답속도가 빠른 GUI가 필요한 경우 VNC를 이용해 서버에 접속합니다.
+* [VNC Connection](https://www.dropbox.com/s/ulszhciudwi1f67/VNC_connection.pptx?dl=0) 
+
 ## Vim
 서버에서 텍스트 편집기 Vim을 주로 사용합니다. 
 * [Simple Vim Guide](https://github.com/johngrib/simple_vim_guide/blob/master/README.md) 
@@ -94,8 +98,10 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
   - [ug1119-Vivado Design Suite Tutorial: Creating and Packaging Custom IP](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug1119-vivado-creating-packaging-ip-tutorial.pdf) 
   - [ug940-Embedded Processor HW Design](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug940-vivado-tutorial-embedded-design.pdf#%5B%7B%22num%22%3A113%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C51%2C720%2C0%5D)
   - [Xilinx Video Series](https://forums.xilinx.com/t5/Video/Xilinx-Video-Series/td-p/849583) 
+  - [Vivaod HW Server Connection](https://www.dropbox.com/s/gv19bvl962f51th/Vivado_Hardware_Server.pptx?dl=0)
   
 * **Xilinx High Level Synthesis** 
+  - [Parallel Programming for FPGAs: An open-source high-level synthesis book](https://github.com/KastnerRG/pp4fpgas)
   - [Cornell Z. Zhang 2018](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EqACs4rcczpIvayXAZpnoqMBgzRmGcsJuFoyGh9P3IXpVA?e=JJ9uH0)
   - [CMU J.C. Hoe 2017](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EsAQpr6_4qJIvpPa4_PHcx8BJe2K9FyGJYkNPZsHFmND0Q?e=V3UTh3) 
   - [ug871-xilinx HLS tutorial](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug871-vivado-high-level-synthesis-tutorial.pdf)
