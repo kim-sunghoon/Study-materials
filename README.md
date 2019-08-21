@@ -79,38 +79,47 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [연습 문제 사이트 hdlbits!](https://hdlbits.01xz.net/wiki/Main_Page)
 * [IDEC 2018 자료들](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EhxHE6dNYbBKkWHsAkr--AsBts9atLa5oYiKB8LzfZ1nBg?e=jNRFGP)
 
-* [**Recipe for FPGA cooking**](https://github.com/lastweek/FPGA)
+
 
 * Design of Digital Circuits & Computer Architecture 
   - [**Papers: Deep Learning & HW Accelerators**](https://github.com/fengbintu/Neural-Networks-on-Silicon)
   - [Neural Network Accelerator Inference](https://nicsefc.ee.tsinghua.edu.cn/projects/neural-network-accelerator/)
-  - [PYNQ Work Shop](https://github.com/Xilinx/PYNQ_Workshop) 
-  - [*Yolo_v2 on PYNQ*](https://github.com/dhm2013724/yolov2_xilinx_fpga)
   - [UsefulSite1: ETH Zurich](https://www.youtube.com/watch?v=g3yH68hAaSk&list=PL5Q2soXY2Zi9JXe3ywQMhylk_d5dI-TM7) & [UsefulSite2: Cornell ECE4750](https://www.csl.cornell.edu/courses/ece4750/readings.html) & [UsefulSite3: Cornell ECE5745](https://www.csl.cornell.edu/courses/ece5745/handouts.html)
   - MIPS Instruction Set Architecture [1](https://www.youtube.com/watch?v=PlavjNH_RRU&list=PLylNWPMX1lPlmEeeMdbEFQo20eHAJL8hx) & [2](https://www.youtube.com/watch?v=qzSdglU0SBc&list=PLylNWPMX1lPnipZzKdCWRj2-un5xvLLdK)
+  - [**Neural Network Dataflow Scheduling**](https://github.com/stanford-mast/nn_dataflow)
+  - [**Recipe for FPGA cooking**](https://github.com/lastweek/FPGA)
   
-
-* [**Neural Network Dataflow Scheduling**](https://github.com/stanford-mast/nn_dataflow)
-
 * **Xilinx Vivado**
   - [**Xilinx University Program**](https://www.xilinx.com/support/university/vivado/vivado-workshops.html)
   - [ug939-Vivado Design Suite Tutorial: Designing with IP](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug939-vivado-designing-with-ip-tutorial.pdf) 
   - [ug1119-Vivado Design Suite Tutorial: Creating and Packaging Custom IP](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug1119-vivado-creating-packaging-ip-tutorial.pdf) 
   - [ug940-Embedded Processor HW Design](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug940-vivado-tutorial-embedded-design.pdf#%5B%7B%22num%22%3A113%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C51%2C720%2C0%5D)
   - [Xilinx Video Series](https://forums.xilinx.com/t5/Video/Xilinx-Video-Series/td-p/849583) 
-  - [Vivaod HW Server Connection](https://www.dropbox.com/s/gv19bvl962f51th/Vivado_Hardware_Server.pptx?dl=0)
+  - [Vivado HW Server Connection](https://www.dropbox.com/s/gv19bvl962f51th/Vivado_Hardware_Server.pptx?dl=0)
   
 * **Xilinx High Level Synthesis** 
   - [Parallel Programming for FPGAs: An open-source high-level synthesis book](https://github.com/KastnerRG/pp4fpgas)
   - [Cornell Z. Zhang 2018](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EqACs4rcczpIvayXAZpnoqMBgzRmGcsJuFoyGh9P3IXpVA?e=JJ9uH0)
   - [CMU J.C. Hoe 2017](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EsAQpr6_4qJIvpPa4_PHcx8BJe2K9FyGJYkNPZsHFmND0Q?e=V3UTh3) 
   - [ug871-xilinx HLS tutorial](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug871-vivado-high-level-synthesis-tutorial.pdf)
-  - [ug1197-UltraFast High-Level Productivity Design Methodology Guide](https://www.xilinx.com/support/documentation/sw_manuals/ug1197-vivado-high-level-productivity.pdf)
-  - [Xilinx/CHaiDNN-HLS based Deep Neural Network Accelerator Library for Xilinx Ultrascale+ MPSoCs](https://github.com/Xilinx/CHaiDNN) 
+  - [ug1197-UltraFast High-Level Productivity Design Methodology Guide](https://www.xilinx.com/support/documentation/sw_manuals/ug1197-vivado-high-level-productivity.pdf) 
   - [Xilinx Lab & Design Ref. Guide Download](https://www.xilinx.com/training/downloads.html)
-  - [Scalable systolic array-based matrix-matrix multiplication implemented in Vivado HLS for Xilinx FPGAs](https://github.com/spcl/gemm_hls)
   - [A collection of extensions for Vivado HLS and Intel FPGA OpenCL to improve developer quality of life](https://github.com/definelicht/hlslib)
-
+  
+* **Open Source**
+   - [Yolo_v2 on PYNQ](https://github.com/dhm2013724/yolov2_xilinx_fpga)
+   - [ZynqNet](https://github.com/dgschwend/zynqnet)
+   - **DAC SDC** [Overview](http://www.cse.cuhk.edu.hk/~byu/2019-DAC-SDC/index.html), [Webniar](https://drive.google.com/file/d/1ZFFSMyLNH88ClTnxbovtd7MEx2Ce5dOb/view)
+      - [DAC SDC 2019 FPGA 1st: SkyNet](https://github.com/TomG008/SkyNet) 
+      - [DAC SDC 2019 FPGA 2nd: XJTU-Tripler](https://github.com/venturezhao/XJTU-Tripler)
+      - [DAC SDC 2019 FPGA 3rd: spooNN](https://github.com/fpgasystems/spooNN/tree/DAC2019)
+      - [DAC SDC 2018 FPGA 2nd: spooNN](https://github.com/fpgasystems/spooNN)
+      - [DAC SDC 2018 FPGA 3rd: iSmart2](https://github.com/onioncc/iSmartDNN)
+      - [PYNQ WorkShop](https://github.com/Xilinx/PYNQ_Workshop) 
+   - [Xilinx/CHaiDNN-HLS based Deep Neural Network Accelerator Library for Xilinx Ultrascale+ MPSoCs](https://github.com/Xilinx/CHaiDNN)
+   - [HLS4ML](https://github.com/hls-fpga-machine-learning/hls4ml)
+   - [DNN Weaver](http://dnnweaver.org/)
+   - [Scalable systolic array-based matrix-matrix multiplication implemented in Vivado HLS for Xilinx FPGAs](https://github.com/spcl/gemm_hls)
 * Deep Learning and GPU
   - [System Stack](https://github.com/zhangruiskyline/DeepLearning/blob/master/doc/system.md)
 
