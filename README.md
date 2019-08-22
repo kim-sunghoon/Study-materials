@@ -116,10 +116,16 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
       - [DAC SDC 2018 FPGA 2nd: spooNN](https://github.com/fpgasystems/spooNN)
       - [DAC SDC 2018 FPGA 3rd: iSmart2](https://github.com/onioncc/iSmartDNN)
       - [PYNQ WorkShop](https://github.com/Xilinx/PYNQ_Workshop) 
+      - [HLS Open-Sources-IPs](https://github.com/DNN-Accelerators/Open-Source-IPs)
    - [Xilinx/CHaiDNN-HLS based Deep Neural Network Accelerator Library for Xilinx Ultrascale+ MPSoCs](https://github.com/Xilinx/CHaiDNN)
    - [HLS4ML](https://github.com/hls-fpga-machine-learning/hls4ml)
    - [DNN Weaver](http://dnnweaver.org/)
    - [Scalable systolic array-based matrix-matrix multiplication implemented in Vivado HLS for Xilinx FPGAs](https://github.com/spcl/gemm_hls)
+   - **Z. Zhang Group, Cornell**
+      - [BNN on FPGA, FPGA 2017](https://github.com/cornell-zhang/bnn-fpga) 
+      - [Accelerating Face Detection on FPGA, FPGA 2017](https://github.com/cornell-zhang/facedetect-fpga)
+      - [Rosetta: A Realistic High-level Synthesis Benchmark Suite for Software Programmable FPGAs, FPGA 2018](https://github.com/cornell-zhang/rosetta)
+   
 * Deep Learning and GPU
   - [System Stack](https://github.com/zhangruiskyline/DeepLearning/blob/master/doc/system.md)
 
