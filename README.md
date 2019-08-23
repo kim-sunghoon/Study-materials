@@ -1,14 +1,15 @@
-# [CAD and SoC Design Lab Tutorial](http://soc.postech.ac.kr)
-신입생/인턴들을 위한 자료 모음
+# [CAD and SoC Design Lab Tutorial](http://csdl.postech.ac.kr)
+학생들을 위한 자료 모음
 ## Git 
-깃은 버전 관리, 코드 관리를 위해 필수 불가결한 도구로 사용되고 있습니다. 
-다루는 코드가 많고, 방대해지면 자신을 믿을 수 없게 됩니다... 협업에도 중요한 역할을 합니다. 
+깃은 코드 관리, 버전 관리를 위해 필수 불가결한 도구로 사용되고 있습니다. 
+다루는 코드가 많고, 방대해지면 자신을 믿을 수 없게 됩니다.
 
+협업에서도 중요한 역할을 합니다. 
 
-처음 시작하는 단계에서는 계속 읽으면서 개념을 습득하는 게 중요합니다. [1: Git 개요](https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/EaQqzn0Tk5xKiwJKjwRR5N4B1kQPZwFNs9WK-x8rM1sGMA?e=VewVHr), 
+처음 시작하는 단계에서는 개념을 습득하는 게 중요합니다. [1: Git 개요](https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/EaQqzn0Tk5xKiwJKjwRR5N4B1kQPZwFNs9WK-x8rM1sGMA?e=VewVHr), 
 [2: Summary 자료](https://github.com/KennethanCeyer/tutorial-git), [3: Curtis Kim, Git Introduction](https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/EZu9KhChZRFAgZg_R4r_YuwBh5DAXweMnoomIinHuKB15Q?e=jTvfCl)를 추천합니다. 대략적인 설명이 잘 되어있습니다.
 
-이후 inflearn 강좌를 이용해 실습해보시면 됩니다. 
+이후 아래의 강좌를 이용해 실습해보시면 됩니다. 
 Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, 이때 Souretree를 이용하면 편리합니다. 
 서버에서는 Git CLI 명령어를 숙지하시면 됩니다. 
 
@@ -31,7 +32,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 서버에서 텍스트 편집기 Vim을 주로 사용합니다. 
 * [Simple Vim Guide](https://github.com/johngrib/simple_vim_guide/blob/master/README.md) 
 * [밤앙개 Vim](https://m.blog.naver.com/PostList.nhn?blogId=nfwscho&categoryNo=45&logCode=0) 
-* [자주 사용하는 플러그인 100](https://agvim.com/2017/09/05/vim-plugins-100/)
+* [자주 사용하는 vim 플러그인 100](https://agvim.com/2017/09/05/vim-plugins-100/)
 * [Dotfiles/Plugin Auto install](https://github.com/kim-sunghoon/dotfiles)
   - only works @ HDL and CNN server
 
@@ -62,6 +63,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [Stanford cs230 -Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks?fbclid=IwAR0nVQBbsFR271fNtsiewA9x1jnP0Hp0j0nkx47kWKkNA7turD-ksT0nyQY)
 * [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
 * [Pytorch로 시작하는 딥러닝](http://taewan.kim/tutorial_manual/dl_pytorch/)
+* [Everything You Need To Know About Saving Weights In PyTorch](https://medium.com/@animesh7pointer/everything-you-need-to-know-about-saving-weights-in-pytorch-572651f3f8de)
 * [이상화교수님 - 확률 및 통계](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)
 * [State of AI Report 2019.06.28](https://www.slideshare.net/StateofAIReport/state-of-ai-report-2019-151804430?utm_campaign=nathan.ai+newsletter&utm_medium=email&utm_source=Revue+newsletter&fbclid=IwAR0jZ2j9B_bvukhtyz9UixUa1rWzE4zChSvyqIK0uA-XtleeC5WOII1DC3I)
 * [An Overview of Google's Work and AutoML and Future Directions / ICML 2019](https://slideslive.com/38917182/an-overview-of-googles-work-on-automl-and-future-directions) 
@@ -76,7 +78,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 
 ### Front-end - HDL (Verilog Coding)
 * [문법 모음 사이트](http://verilog.renerta.com/source/vrg00038.htm) 
-* [연습 문제 사이트 hdlbits!](https://hdlbits.01xz.net/wiki/Main_Page)
+* [**연습 문제 사이트 hdlbits!**](https://hdlbits.01xz.net/wiki/Main_Page)
 * [IDEC 2018 자료들](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EhxHE6dNYbBKkWHsAkr--AsBts9atLa5oYiKB8LzfZ1nBg?e=jNRFGP)
 
 
@@ -140,10 +142,12 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 
 ---
 ## Linux
-* [Linux Bible 자료](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/Es4a1QxvLkBHqBsVsO5zuYgBDhTDqjGPtcnxS7Y2dpENxg?e=1LCcQW) 
+사용하는 서버의 OS는 리눅스입니다. (cetos, ubuntu) 기본적인 리눅스 사용법을 숙지합시다.  
+
 * [**Linux Command Line tool 인프런**](https://www.inflearn.com/course/command-line/#) 
 * [**이것이 우분투 리눅스다**](https://www.inflearn.com/course/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%9A%B0%EB%B6%84%ED%88%AC-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%8B%A4/)
 * [이것이 리눅스다](https://www.inflearn.com/course/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%8B%A4/)
+* [Linux Bible 자료](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/Es4a1QxvLkBHqBsVsO5zuYgBDhTDqjGPtcnxS7Y2dpENxg?e=1LCcQW) 
 
 ### Tcl & Using Tool without GUI
 [Tcl (Tool Command Language)](https://ko.wikipedia.org/wiki/Tcl)은 Front-end, Back-end 등에서 사용할 툴들을 조작하는데 사용됩니다. 
