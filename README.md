@@ -54,6 +54,8 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [pyCheckiO - python quiz](https://py.checkio.org/)
 * [Anaconda 유용한 사용법](https://provia.tistory.com/55) 
 * [파이썬 클린코드](http://www.yes24.com/Product/goods/69064790) - [git](https://github.com/PacktPublishing/Clean-Code-in-Python)
+* [Google Python Style](https://google.github.io/styleguide/pyguide.html)
+
 ## Machine Learning / Deep Learning 
 * [머신러닝과 딥러닝 BASIC](https://www.edwith.org/others26)
 * [GIST yongyi lee 머신러닝 BASIC] - [Slide](https://drive.google.com/file/d/1dLypFb0WS25_y1wL4uyzlhjByB7qCe4W/view?fbclid=IwAR1dJJI2O2YsX7js-ZRwRXsULxHOxHx_Q-6ur0DCCCV8ULMixFqhwB_PJvU), [Youtube](https://www.youtube.com/watch?v=hJH4w6mXIoE&feature=youtu.be&fbclid=IwAR0ln4NDNyfRSx8lae-nOObs2crAPXcbTA0D0_NHWuwo1nA61Hoxk2hEhk4)
@@ -81,8 +83,6 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [문법 모음 사이트](http://verilog.renerta.com/source/vrg00038.htm) 
 * [**연습 문제 사이트 hdlbits!**](https://hdlbits.01xz.net/wiki/Main_Page)
 * [IDEC 2018 자료들](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EhxHE6dNYbBKkWHsAkr--AsBts9atLa5oYiKB8LzfZ1nBg?e=jNRFGP)
-
-
 
 * Design of Digital Circuits & Computer Architecture 
   - [**Papers: Deep Learning & HW Accelerators**](https://github.com/fengbintu/Neural-Networks-on-Silicon)
@@ -139,6 +139,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
  * [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md?fbclid=IwAR1eEcSeLhYSkTps68RE3bjvGEuCGBU5QjpSIEEVIOJ_yCqoijc8wSKDXQs#vim) 
  * [Deep Into Algorithm from MIT](https://www.edwith.org/introalgorithm)
  * [The Algorithms: Open Source Resource for Newbies to Learn Algorithms and Implement them in any Programming Language](https://github.com/TheAlgorithms)
+ * [Google Coding Style Guides](https://google.github.io/styleguide/)
  * [Programmers Coding Test](https://programmers.co.kr/learn/challenges) 
 
 ---
