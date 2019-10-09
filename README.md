@@ -112,14 +112,14 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * **Open Source**
    - [Yolo_v2 on PYNQ](https://github.com/dhm2013724/yolov2_xilinx_fpga)
    - [ZynqNet](https://github.com/dgschwend/zynqnet)
-   - **DAC SDC** [Overview](http://www.cse.cuhk.edu.hk/~byu/2019-DAC-SDC/index.html), [Webniar](https://drive.google.com/file/d/1ZFFSMyLNH88ClTnxbovtd7MEx2Ce5dOb/view)
+   - **DAC SDC** [Overview](http://www.cse.cuhk.edu.hk/~byu/2019-DAC-SDC/index.html), [Winners](https://github.com/xyzxinyizhang/2019-DAC-System-Design-Contest), [Webniar](https://drive.google.com/file/d/1ZFFSMyLNH88ClTnxbovtd7MEx2Ce5dOb/view) 
       - [DAC SDC 2019 FPGA 1st: SkyNet](https://github.com/TomG008/SkyNet) 
       - [DAC SDC 2019 FPGA 2nd: XJTU-Tripler](https://github.com/venturezhao/XJTU-Tripler)
       - [DAC SDC 2019 FPGA 3rd: spooNN](https://github.com/fpgasystems/spooNN/tree/DAC2019)
       - [DAC SDC 2018 FPGA 2nd: spooNN](https://github.com/fpgasystems/spooNN)
       - [DAC SDC 2018 FPGA 3rd: iSmart2](https://github.com/onioncc/iSmartDNN)
       - [PYNQ WorkShop](https://github.com/Xilinx/PYNQ_Workshop) 
-      - [HLS Open-Sources-IPs](https://github.com/DNN-Accelerators/Open-Source-IPs)
+
    - [Xilinx/CHaiDNN-HLS based Deep Neural Network Accelerator Library for Xilinx Ultrascale+ MPSoCs](https://github.com/Xilinx/CHaiDNN)
    - [HLS4ML](https://github.com/hls-fpga-machine-learning/hls4ml)
    - [DNN Weaver](http://dnnweaver.org/)
@@ -186,4 +186,4 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [WaveDrom: Digital Timing Diagram](https://wavedrom.com/) & [관련](https://dreamsailor.tistory.com/5)
 * [Draw.io: visio 대안 무료 Drawing Program](https://www.draw.io/)  &  [관련](https://blog.naver.com/PostView.nhn?blogId=julian_dev&logNo=221461148445&parentCategoryNo=&categoryNo=7&viewDate=&isShowPopularPosts=true&from=search)
 * [Markdown1](https://heropy.blog/2017/09/30/markdown/) & [Markdown2](https://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/) 
-* [Pronunciation - Sounds American channel](https://www.youtube.com/channel/UC-MSYk9R94F3TMuKAnQ7dDg/playlists)
+* [Pronunciation - Sounds American Channel](https://www.youtube.com/channel/UC-MSYk9R94F3TMuKAnQ7dDg/playlists)
