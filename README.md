@@ -34,7 +34,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [밤앙개 Vim](https://m.blog.naver.com/PostList.nhn?blogId=nfwscho&categoryNo=45&logCode=0) 
 * [자주 사용하는 vim 플러그인 100](https://agvim.com/2017/09/05/vim-plugins-100/)
 * [Dotfiles/Plugin Auto install](https://github.com/kim-sunghoon/dotfiles)
-  - only works @ HDL and CNN server
+  - works @ EDA, HDL, CPU, GPU and CNN servers (Except RTL - cetos 6) 
 
 
 ## C언어
