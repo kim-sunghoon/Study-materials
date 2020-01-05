@@ -87,14 +87,16 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * Design of Digital Circuits & Computer Architecture 
   - [**Papers: Deep Learning & HW Accelerators**](https://github.com/fengbintu/Neural-Networks-on-Silicon)
   - [**Stanford CS217 - Hardware Accelerators for Machine Learning**](https://cs217.stanford.edu/) 
+  - [**Embedded and mobile deep learning research resources**(EMDL)](https://github.com/EMDL/awesome-emdl)
   - [Neural Network Accelerator Inference](https://nicsefc.ee.tsinghua.edu.cn/projects/neural-network-accelerator/)
   - [UsefulSite1: ETH Zurich](https://www.youtube.com/watch?v=g3yH68hAaSk&list=PL5Q2soXY2Zi9JXe3ywQMhylk_d5dI-TM7) & [UsefulSite2: Cornell ECE4750](https://www.csl.cornell.edu/courses/ece4750/readings.html) & [UsefulSite3: Cornell ECE5745](https://www.csl.cornell.edu/courses/ece5745/handouts.html)
   - MIPS Instruction Set Architecture [1](https://www.youtube.com/watch?v=PlavjNH_RRU&list=PLylNWPMX1lPlmEeeMdbEFQo20eHAJL8hx) & [2](https://www.youtube.com/watch?v=qzSdglU0SBc&list=PLylNWPMX1lPnipZzKdCWRj2-un5xvLLdK)
-  - [**Neural Network Dataflow Scheduling**](https://github.com/stanford-mast/nn_dataflow)
-  - [**Recipe for FPGA cooking**](https://github.com/lastweek/FPGA)
+  - [Neural Network Dataflow Scheduling](https://github.com/stanford-mast/nn_dataflow)
+
   
 * **Xilinx Vivado**
   - [**Xilinx University Program**](https://www.xilinx.com/support/university/vivado/vivado-workshops.html)
+  - [**Recipe for FPGA cooking**](https://github.com/lastweek/FPGA)
   - [ug939-Vivado Design Suite Tutorial: Designing with IP](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug939-vivado-designing-with-ip-tutorial.pdf) 
   - [ug1119-Vivado Design Suite Tutorial: Creating and Packaging Custom IP](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug1119-vivado-creating-packaging-ip-tutorial.pdf) 
   - [ug940-Embedded Processor HW Design](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug940-vivado-tutorial-embedded-design.pdf#%5B%7B%22num%22%3A113%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C51%2C720%2C0%5D)
@@ -106,13 +108,8 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
   - [Cornell Z. Zhang 2018](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EqACs4rcczpIvayXAZpnoqMBgzRmGcsJuFoyGh9P3IXpVA?e=JJ9uH0)
   - [CMU J.C. Hoe 2017](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EsAQpr6_4qJIvpPa4_PHcx8BJe2K9FyGJYkNPZsHFmND0Q?e=V3UTh3) 
   - [ug871-xilinx HLS tutorial](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2018_2/ug871-vivado-high-level-synthesis-tutorial.pdf)
-  - [ug1197-UltraFast High-Level Productivity Design Methodology Guide](https://www.xilinx.com/support/documentation/sw_manuals/ug1197-vivado-high-level-productivity.pdf) 
-  - [Xilinx Lab & Design Ref. Guide Download](https://www.xilinx.com/training/downloads.html)
-  - [A collection of extensions for Vivado HLS and Intel FPGA OpenCL to improve developer quality of life](https://github.com/definelicht/hlslib)
   
 * **Open Source**
-   - [Yolo_v2 on PYNQ](https://github.com/dhm2013724/yolov2_xilinx_fpga)
-   - [ZynqNet](https://github.com/dgschwend/zynqnet)
    - **DAC SDC** [Overview](http://www.cse.cuhk.edu.hk/~byu/2019-DAC-SDC/index.html), [Winners](https://github.com/xyzxinyizhang/2019-DAC-System-Design-Contest), [Webniar](https://drive.google.com/file/d/1ZFFSMyLNH88ClTnxbovtd7MEx2Ce5dOb/view) 
       - [DAC SDC 2019 FPGA 1st: SkyNet](https://github.com/TomG008/SkyNet) 
       - [DAC SDC 2019 FPGA 2nd: XJTU-Tripler](https://github.com/venturezhao/XJTU-Tripler)
@@ -120,7 +117,8 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
       - [DAC SDC 2018 FPGA 2nd: spooNN](https://github.com/fpgasystems/spooNN)
       - [DAC SDC 2018 FPGA 3rd: iSmart2](https://github.com/onioncc/iSmartDNN)
       - [PYNQ WorkShop](https://github.com/Xilinx/PYNQ_Workshop) 
-
+   - [Yolo_v2 on PYNQ](https://github.com/dhm2013724/yolov2_xilinx_fpga)
+   - [ZynqNet](https://github.com/dgschwend/zynqnet)
    - [Xilinx/CHaiDNN-HLS based Deep Neural Network Accelerator Library for Xilinx Ultrascale+ MPSoCs](https://github.com/Xilinx/CHaiDNN)
    - [HLS4ML](https://github.com/hls-fpga-machine-learning/hls4ml)
    - [DNN Weaver](http://dnnweaver.org/)
@@ -145,8 +143,6 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 
 ---
 ## Linux
-사용하는 서버의 OS는 리눅스입니다. (cetos, ubuntu) 기본적인 리눅스 사용법을 숙지합시다.  
-
 * [**Linux Command Line tool 인프런**](https://www.inflearn.com/course/command-line/#) 
 * [**이것이 우분투 리눅스다**](https://www.inflearn.com/course/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%9A%B0%EB%B6%84%ED%88%AC-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%8B%A4/)
 * [이것이 리눅스다](https://www.inflearn.com/course/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%8B%A4/)
