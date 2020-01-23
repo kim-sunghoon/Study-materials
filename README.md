@@ -71,6 +71,7 @@ Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, �
 * [State of AI Report 2019.06.28](https://www.slideshare.net/StateofAIReport/state-of-ai-report-2019-151804430?utm_campaign=nathan.ai+newsletter&utm_medium=email&utm_source=Revue+newsletter&fbclid=IwAR0jZ2j9B_bvukhtyz9UixUa1rWzE4zChSvyqIK0uA-XtleeC5WOII1DC3I)
 * [An Overview of Google's Work and AutoML and Future Directions / ICML 2019](https://slideslive.com/38917182/an-overview-of-googles-work-on-automl-and-future-directions) 
 * [LeaderBoard: StateOfTheArt.ai](https://www.stateoftheart.ai/) 
+* [Paperwithcode](https://paperswithcode.com/)
 --- 
 
 ## 하드웨어란?
