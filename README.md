@@ -159,6 +159,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [파이썬 클린코드](http://www.yes24.com/Product/goods/69064790) - [git](https://github.com/PacktPublishing/Clean-Code-in-Python)
 * [Google Python Style](https://google.github.io/styleguide/pyguide.html)
 * [클래스 및 모듈 정리](https://seongjaemoon.github.io/python/2018/04/06/python-course3.html)
+* [30-helpful-python-snippets](https://towardsdatascience.com/30-helpful-python-snippets-that-you-can-learn-in-30-seconds-or-less-69bb49204172)
 ---
 
 ## 3. Application: Machine Learning / Deep Learning 
