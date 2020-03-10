@@ -86,6 +86,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
   - [**Papers: Deep Learning & HW Accelerators**](https://github.com/fengbintu/Neural-Networks-on-Silicon)
   - [**Stanford CS217 - Hardware Accelerators for Machine Learning**](https://cs217.stanford.edu/) 
   - [**Embedded and mobile deep learning research resources**(EMDL)](https://github.com/EMDL/awesome-emdl)
+  - [Neural Network Acceleration Study](https://github.com/ConstantPark/Nerual-Network-Acceleration)
   - [Neural Network Accelerator Inference](https://nicsefc.ee.tsinghua.edu.cn/projects/neural-network-accelerator/)
   - [UsefulSite1: ETH Zurich](https://www.youtube.com/watch?v=g3yH68hAaSk&list=PL5Q2soXY2Zi9JXe3ywQMhylk_d5dI-TM7) & [UsefulSite2: Cornell ECE4750](https://www.csl.cornell.edu/courses/ece4750/readings.html) & [UsefulSite3: Cornell ECE5745](https://www.csl.cornell.edu/courses/ece5745/handouts.html)
   - MIPS Instruction Set Architecture [1](https://www.youtube.com/watch?v=PlavjNH_RRU&list=PLylNWPMX1lPlmEeeMdbEFQo20eHAJL8hx) & [2](https://www.youtube.com/watch?v=qzSdglU0SBc&list=PLylNWPMX1lPnipZzKdCWRj2-un5xvLLdK)
@@ -174,6 +175,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [An Overview of Google's Work and AutoML and Future Directions / ICML 2019](https://slideslive.com/38917182/an-overview-of-googles-work-on-automl-and-future-directions) 
 * [LeaderBoard: StateOfTheArt.ai](https://www.stateoftheart.ai/) 
 * [Paperwithcode](https://paperswithcode.com/)
+* [**Awesome-NAS**](https://github.com/D-X-Y/Awesome-NAS)
 * [awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
 * [Literature on Neural Architecture Search](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 * [Benchmarks.AI](https://benchmarks.ai/)
@@ -184,6 +186,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Pytorch로 시작하는 딥러닝](http://taewan.kim/tutorial_manual/dl_pytorch/)
 * [Everything You Need To Know About Saving Weights In PyTorch](https://medium.com/@animesh7pointer/everything-you-need-to-know-about-saving-weights-in-pytorch-572651f3f8de)
 * [pytorch-how-and-when-to-use-module-sequential-modulelist-and-moduledict](https://towardsdatascience.com/pytorch-how-and-when-to-use-module-sequential-modulelist-and-moduledict-7a54597b5f17)
+* [pytorch Autograd](https://teamdable.github.io/techblog/PyTorch-Autograd?fbclid=IwAR0aqsFKGV-fXIUyZdD7nwr2QI9GUDeX_kiW9xqLyaup2E5EU4-FCbPP1q8)
 ---
 ### Speech Recognition | Diarization | Identification
 * [Attention in end-to-end Automatic Speech Recognition](https://medium.com/intel-student-ambassadors/attention-in-end-to-end-automatic-speech-recognition-9f9e42718d21)
@@ -200,4 +203,4 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Markdown1](https://heropy.blog/2017/09/30/markdown/) & [Markdown2](https://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/) 
 * [Readme MD Generator](https://github.com/kefranabg/readme-md-generator)
 * [Pronunciation - Sounds American Channel](https://www.youtube.com/channel/UC-MSYk9R94F3TMuKAnQ7dDg/playlists)
-
+* [ICBanQ](https://www.icbanq.com/A05_templete/templeteList.do?t_idx=203&catg_code=101144129)
