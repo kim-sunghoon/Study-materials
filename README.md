@@ -163,7 +163,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [30-helpful-python-snippets](https://towardsdatascience.com/30-helpful-python-snippets-that-you-can-learn-in-30-seconds-or-less-69bb49204172)
 ---
 
-## 3. Application: Machine Learning / Deep Learning 
+## 3. Application: Deep Learning / AutoML/ Pytorch  
 * [머신러닝과 딥러닝 BASIC](https://www.edwith.org/others26)
 * [GIST yongyi lee 머신러닝 BASIC] - [Slide](https://drive.google.com/file/d/1dLypFb0WS25_y1wL4uyzlhjByB7qCe4W/view?fbclid=IwAR1dJJI2O2YsX7js-ZRwRXsULxHOxHx_Q-6ur0DCCCV8ULMixFqhwB_PJvU), [Youtube](https://www.youtube.com/watch?v=hJH4w6mXIoE&feature=youtu.be&fbclid=IwAR0ln4NDNyfRSx8lae-nOObs2crAPXcbTA0D0_NHWuwo1nA61Hoxk2hEhk4)
 * [역전파 알고리즘 완전정복](https://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/BP/bp.ipynb?fbclid=IwAR1KMcFHPJs5St-RMKDHODe7L4bWhVM27j_lDCRmGCBK4tb2lbsWs8E3ocY) 
@@ -172,13 +172,16 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Stanford cs230 -Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks?fbclid=IwAR0nVQBbsFR271fNtsiewA9x1jnP0Hp0j0nkx47kWKkNA7turD-ksT0nyQY)
 * [이상화교수님 - 확률 및 통계](https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V)
 * [State of AI Report 2019.06.28](https://www.slideshare.net/StateofAIReport/state-of-ai-report-2019-151804430?utm_campaign=nathan.ai+newsletter&utm_medium=email&utm_source=Revue+newsletter&fbclid=IwAR0jZ2j9B_bvukhtyz9UixUa1rWzE4zChSvyqIK0uA-XtleeC5WOII1DC3I)
-* [An Overview of Google's Work and AutoML and Future Directions / ICML 2019](https://slideslive.com/38917182/an-overview-of-googles-work-on-automl-and-future-directions) 
 * [LeaderBoard: StateOfTheArt.ai](https://www.stateoftheart.ai/) 
 * [Paperwithcode](https://paperswithcode.com/)
+* [Benchmarks.AI](https://benchmarks.ai/)
+
+### AutoML
 * [**Awesome-NAS**](https://github.com/D-X-Y/Awesome-NAS)
+* [**Awesome-AutoML-Papers**](https://github.com/hibayesian/awesome-automl-papers)
 * [awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
 * [Literature on Neural Architecture Search](https://www.automl.org/automl/literature-on-neural-architecture-search/)
-* [Benchmarks.AI](https://benchmarks.ai/)
+* [An Overview of Google's Work and AutoML and Future Directions / ICML 2019](https://slideslive.com/38917182/an-overview-of-googles-work-on-automl-and-future-directions) 
 ---
 ### Pytorch
 * [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
