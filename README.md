@@ -131,7 +131,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
   - [System Stack](https://github.com/zhangruiskyline/DeepLearning/blob/master/doc/system.md)
 
 * [이니프로 카페](https://cafe.naver.com/plduser/14517)  
-  
+* [ICBanQ](https://www.icbanq.com/A05_templete/templeteList.do?t_idx=203&catg_code=101144129)
  --- 
  ### 2.2 Back-end --> Algorithm  
  * [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md?fbclid=IwAR1eEcSeLhYSkTps68RE3bjvGEuCGBU5QjpSIEEVIOJ_yCqoijc8wSKDXQs#vim) 
@@ -207,4 +207,6 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Markdown1](https://heropy.blog/2017/09/30/markdown/) & [Markdown2](https://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/) 
 * [Readme MD Generator](https://github.com/kefranabg/readme-md-generator)
 * [Pronunciation - Sounds American Channel](https://www.youtube.com/channel/UC-MSYk9R94F3TMuKAnQ7dDg/playlists)
-* [ICBanQ](https://www.icbanq.com/A05_templete/templeteList.do?t_idx=203&catg_code=101144129)
+* [브릿센트 x 영국영어](https://www.youtube.com/channel/UCq0pVPNYdDWQk1iTS4jTk2w)
+* [Learn English with Emma](https://www.youtube.com/user/EnglishTeacherEmma)
+
