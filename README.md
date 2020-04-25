@@ -11,7 +11,7 @@
 [2: Summary 자료](https://github.com/KennethanCeyer/tutorial-git), [3: Curtis Kim, Git Introduction](https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/EZu9KhChZRFAgZg_R4r_YuwBh5DAXweMnoomIinHuKB15Q?e=jTvfCl)를 추천합니다. 대략적인 설명이 잘 되어있습니다.
 
 이후 아래의 강좌를 이용해 실습해보시면 됩니다. 
-Vivado를 이용할 때 GUI 때문에 Window에서 작업할 일이 많은데, 이때 Souretree를 이용하면 편리합니다. 
+GUI 때문에 Window에선 Souretree를 이용하면 편리합니다. 
 서버에서는 Git CLI 명령어를 숙지하시면 됩니다. 
 
 * [Sourcetree 및 Git 기초](https://www.inflearn.com/course/git-and-github/)  
