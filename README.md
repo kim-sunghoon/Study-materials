@@ -202,7 +202,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Overleaf Main](https://www.overleaf.com/) & [Tutorial1](https://ko.overleaf.com/learn/latex/Main_Page) &[Tutorial2](https://www.dropbox.com/sh/x6bc2yik5x7w81u/AABG3tBJTkVss9hlpYjwm2MJa?dl=0) & [Tips1](https://github.com/Wookai/paper-tips-and-tricks)  & [LaTeX using vim](https://castel.dev/post/lecture-notes-1/)
 * [LaTeX Table Generator](https://www.tablesgenerator.com/#)
 * [LaTex Link Color](https://tex.stackexchange.com/questions/525261/better-default-colors-for-hyperref-links)
-* [LaTeX Symbols](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
+* [LaTeX Symbols1](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) & [LaTex Symbols2](https://jjycjnmath.tistory.com/117)
 * In a math environment, LaTeX ignores the spaces you type and puts in the spacing that it thinks is best. LaTeX formats mathematics the way it's done in mathematics texts. If you want different spacing, LaTeX provides the following four commands for use in math mode:
 ```
 \; - a thick space
