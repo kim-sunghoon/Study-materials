@@ -3,7 +3,7 @@ Study materials
 # 1. Tools 
 ## Git 
 깃은 코드 관리, 버전 관리를 위해 필수 불가결한 도구로 사용되고 있습니다. 다루는 코드가 많고, 방대해지면 자신을 믿을 수 없게 됩니다.
-협업에서도 중요한 역할을 합니다. [Summary 자료](https://github.com/KennethanCeyer/tutorial-git)
+협업에서도 중요한 역할을 합니다. [Summary-1](https://github.com/KennethanCeyer/tutorial-git) & [Summary-2 | 웹말고 다운 받아 보세요](https://www.slideshare.net/IldooKim/170209-github-introduction-korean-version)
 
 아래의 강좌를 추천합니다. GUI 때문에 Window에선 Souretree를 이용하면 편리 서버에서는 Git CLI 명령어를 숙지하시면 됩니다. 
 
