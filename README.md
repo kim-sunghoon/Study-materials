@@ -122,9 +122,13 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
    
 * Deep Learning and GPU
   - [System Stack](https://github.com/zhangruiskyline/DeepLearning/blob/master/doc/system.md)
+* Nvidia Jetson 
+  - [Jetson User Group for Korean](https://github.com/jetsonworld?tab=repositories) 
+  - [인공지능 하드웨어 개발을 위한 Nvidia Jetson Nano 기초과정](https://www.g.camp/1216) 
+  - [Jetson hacks1](https://github.com/jetsonhacks) | [Jetson hacks2](https://www.jetsonhacks.com/) 
 
-* [이니프로 카페](https://cafe.naver.com/plduser/14517)  
-* [ICBanQ](https://www.icbanq.com/A05_templete/templeteList.do?t_idx=203&catg_code=101144129)
+  - [이니프로 카페](https://cafe.naver.com/plduser/14517)  
+  - [ICBanQ](https://www.icbanq.com/A05_templete/templeteList.do?t_idx=203&catg_code=101144129)
  --- 
  ### 2.2 Back-end --> Algorithm  
  * [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md?fbclid=IwAR1eEcSeLhYSkTps68RE3bjvGEuCGBU5QjpSIEEVIOJ_yCqoijc8wSKDXQs#vim) 
@@ -188,11 +192,6 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 ### Speech Recognition | Diarization | Identification
 * [Attention in end-to-end Automatic Speech Recognition](https://medium.com/intel-student-ambassadors/attention-in-end-to-end-automatic-speech-recognition-9f9e42718d21)
 
-## Nvidia Jetson 
-* [Jetson User Group for Korean](https://github.com/jetsonworld?tab=repositories) 
-* [인공지능 하드웨어 개발을 위한 Nvidia Jetson Nano 기초과정](https://www.g.camp/1216) 
-* [Jetson hacks1](https://github.com/jetsonhacks) | [Jetson hacks2](https://www.jetsonhacks.com/) 
-* 
 
 --- 
 ## 4. Overleaf / Power Point / Excel / etc. 
