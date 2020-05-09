@@ -188,6 +188,11 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 ### Speech Recognition | Diarization | Identification
 * [Attention in end-to-end Automatic Speech Recognition](https://medium.com/intel-student-ambassadors/attention-in-end-to-end-automatic-speech-recognition-9f9e42718d21)
 
+## Nvidia Jetson 
+* [Jetson User Group for Korean](https://github.com/jetsonworld?tab=repositories) 
+* [인공지능 하드웨어 개발을 위한 Nvidia Jetson Nano 기초과정](https://www.g.camp/1216) 
+* [Jetson hacks1](https://github.com/jetsonhacks) | [Jetson hacks2](https://www.jetsonhacks.com/) 
+* 
 
 --- 
 ## 4. Overleaf / Power Point / Excel / etc. 
