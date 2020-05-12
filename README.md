@@ -159,6 +159,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [클래스 및 모듈 정리](https://seongjaemoon.github.io/python/2018/04/06/python-course3.html)
 * [30-helpful-python-snippets](https://towardsdatascience.com/30-helpful-python-snippets-that-you-can-learn-in-30-seconds-or-less-69bb49204172)
 * [Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
+* [Matplotlib](https://jehyunlee.github.io/2020/04/21/Python-DS-10-matplotlib_Tools/)
 ---
 
 ## 3. Application: Deep Learning / AutoML/ Pytorch  
