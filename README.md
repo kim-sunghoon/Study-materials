@@ -153,6 +153,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 * [Matplotlib](https://jehyunlee.github.io/2020/04/21/Python-DS-10-matplotlib_Tools/)
 * [python process time measure](https://stackoverflow.com/questions/52222002/what-is-the-difference-between-time-perf-counter-and-time-process-time/52228375#52228375) 
+* [python profiling](https://wikidocs.net/3692)
 ---
 
 ## 3. Application: Deep Learning / AutoML/ Pytorch  
