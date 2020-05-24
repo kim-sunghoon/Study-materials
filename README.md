@@ -220,5 +220,6 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [브릿센트 x 영국영어](https://www.youtube.com/channel/UCq0pVPNYdDWQk1iTS4jTk2w)
 * [Learn English with Emma](https://www.youtube.com/user/EnglishTeacherEmma)
 * [일 잘하는 사람의 보고서 작성법 | 까이기 딱 좋은 보고서 피하기](https://www.youtube.com/watch?v=iFyxYmUHolY) 
-* [퇴사 결정을 내려야할 때는?](https://www.youtube.com/watch?v=vqwY2SwkQ2Q) | [퇴사 제대로 하는 법](https://youtu.be/tKmmJEb-QFg) 
+* [퇴사 결정을 내려야할 때는?](https://www.youtube.com/watch?v=vqwY2SwkQ2Q) | [퇴사 제대로 하는 법](https://youtu.be/tKmmJEb-QFg)
+* [거절 잘하는 법](https://youtu.be/rzRGGh9rcCQ)
 * [잠이 안 깨고 항상 피곤할때 해결법](https://www.youtube.com/watch?v=30OadDaCbrA)
