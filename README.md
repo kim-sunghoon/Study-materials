@@ -150,6 +150,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Google Python Style](https://google.github.io/styleguide/pyguide.html)
 * [클래스 및 모듈 정리](https://seongjaemoon.github.io/python/2018/04/06/python-course3.html)
 * [30-helpful-python-snippets](https://towardsdatascience.com/30-helpful-python-snippets-that-you-can-learn-in-30-seconds-or-less-69bb49204172)
+* [Awesome Python: frameworks, libraries, software and resources](https://github.com/vinta/awesome-python)
 * [Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 * [Matplotlib](https://jehyunlee.github.io/2020/04/21/Python-DS-10-matplotlib_Tools/)
 * [python process time measure](https://stackoverflow.com/questions/52222002/what-is-the-difference-between-time-perf-counter-and-time-process-time/52228375#52228375) 
@@ -193,6 +194,8 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
   - [Jetson User Group for Korean](https://github.com/jetsonworld?tab=repositories) 
   - [인공지능 하드웨어 개발을 위한 Nvidia Jetson Nano 기초과정](https://www.g.camp/1216) 
   - [Jetson hacks1](https://github.com/jetsonhacks) | [Jetson hacks2](https://www.jetsonhacks.com/) 
+  - [Jetson Fan Ctrl](https://github.com/Pyrestone/jetson-fan-ctl)
+  - [Systemmd1](https://am003507.tistory.com/302) | [Systemmd2](https://www.elex.pe.kr/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-systemd%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B1%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%93%B1%EB%A1%9D)
   - [라즈베리파이 문서](https://wikidocs.net/book/483)
 
 --- 
@@ -203,11 +206,11 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [LaTeX Color](http://latexcolor.com/)
 
 ```
-! Definition on the header file
+% Definition on the header file
 \definecolor{applegreen}{rgb}{0.55, 0.71, 0.0}
 \newcommand{\rone}[1]{\textcolor{applegreen}{#1}}
 
-! Usage on the Body 
+% Usage on the Body 
 \rone{Test} 
 ```
 * [LaTex Link Color](https://tex.stackexchange.com/questions/525261/better-default-colors-for-hyperref-links)
