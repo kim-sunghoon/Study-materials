@@ -235,7 +235,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Excel](https://www.inflearn.com/course/%EC%97%91%EC%85%80-%EA%B0%95%EC%A2%8C/)
 * [WaveDrom: Digital Timing Diagram](https://wavedrom.com/) & [관련](https://dreamsailor.tistory.com/5)
 * [Draw.io: visio 대안 무료 Drawing Program](https://www.draw.io/)  &  [관련](https://blog.naver.com/PostView.nhn?blogId=julian_dev&logNo=221461148445&parentCategoryNo=&categoryNo=7&viewDate=&isShowPopularPosts=true&from=search)
-* [Markdown1](https://heropy.blog/2017/09/30/markdown/) & [Markdown2](https://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/) 
+* [Markdown문법1](https://heropy.blog/2017/09/30/markdown/) & [Markdown문법2](https://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/) & [Markdown문법3](http://taewan.kim/post/markdown/#comment)
 * [ReadMe MD Generator](https://github.com/kefranabg/readme-md-generator)
 * [CV Template](https://github.com/kim-sunghoon/online-cv/tree/master)
 * [Pronunciation - Sounds American Channel](https://www.youtube.com/channel/UC-MSYk9R94F3TMuKAnQ7dDg/playlists)
@@ -245,7 +245,9 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 ### ETC. 
 * [대학원생 때 알았더라면 좋았을 것들](http://gradschoolstory.net/)
 * [일 잘하는 사람의 보고서 작성법 | 까이기 딱 좋은 보고서 피하기](https://www.youtube.com/watch?v=iFyxYmUHolY) 
+<!--
 * [웃는 얼굴에 속지 마라! 내 커리어에 치명적인 ‘독버섯 상사’ 감별 법](https://media.fastcampus.co.kr/insight/toxanium_boss/)
 * [퇴사 결정을 내려야할 때는?](https://www.youtube.com/watch?v=vqwY2SwkQ2Q) | [퇴사 제대로 하는 법](https://youtu.be/tKmmJEb-QFg)
+-->
 * [거절 잘하는 법](https://youtu.be/rzRGGh9rcCQ)
 * [잠이 안 깨고 항상 피곤할때 해결법](https://www.youtube.com/watch?v=30OadDaCbrA)
