@@ -5,7 +5,7 @@ Study materials
 깃은 코드 관리, 버전 관리를 위해 필수 불가결한 도구로 사용되고 있습니다. 다루는 코드가 많고, 방대해지면 자신을 믿을 수 없게 됩니다.
 협업에서도 중요한 역할을 합니다. [Summary-1](https://github.com/KennethanCeyer/tutorial-git) & [Summary-2 | 웹말고 다운 받아 보세요](https://www.slideshare.net/IldooKim/170209-github-introduction-korean-version)
 
-아래의 강좌를 추천합니다. GUI 때문에 Window에선 Souretree를 이용하면 편리 서버에서는 Git CLI 명령어를 숙지하시면 됩니다. 
+아래의 강좌를 추천합니다. GUI 때문에 Window에선 Souretree를 이용하면 편리하고, 서버에서는 Git CLI 명령어를 숙지하시면 됩니다. 
 
 * [Sourcetree 및 Git 기초](https://www.inflearn.com/course/git-and-github/)  
 * [지옥에서 돌아온 Git](https://www.inflearn.com/course/%EC%A7%80%EC%98%A5%EC%97%90%EC%84%9C-%EC%98%A8-git/)
@@ -18,7 +18,7 @@ Study materials
 * [서버접속하기/ ftp 이용하기](https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/EUCD4Nt_0w5OkyiSGQQpOy4B5DX_FqI5xWOn9UAo4AFw1w?e=XuxaiO)
 
 ## VNC를 통해 서버 접속하기
-응답속도가 빠른 GUI가 필요한 경우 VNC를 이용해 서버에 접속합니다.
+응답속도가 빠른 GUI가 필요한 경우 VNC를 이용해 서버에 접속합니다. 
 * [VNC Connection](https://www.dropbox.com/s/ulszhciudwi1f67/VNC_connection.pptx?dl=0) 
 
 ## Vim
@@ -177,7 +177,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Literature on Neural Architecture Search](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 * [An Overview of Google's Work and AutoML and Future Directions / ICML 2019](https://slideslive.com/38917182/an-overview-of-googles-work-on-automl-and-future-directions) 
 ---
-### Pytorch
+### Pyorch
 * [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
 * [convNet.pytorch - training example ](https://github.com/eladhoffer/convNet.pytorch)
 * [Pytorch로 시작하는 딥러닝](http://taewan.kim/tutorial_manual/dl_pytorch/)
@@ -199,19 +199,25 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
   - [라즈베리파이 문서](https://wikidocs.net/book/483)
 
 --- 
-## 4. Overleaf / Power Point / Excel / etc. 
-### Latex 
+## 4. Tools: LaTeX / Power Point / Excel / etc. 
+### LaTex  
 * [Overleaf Main](https://www.overleaf.com/) & [Tutorial1](https://ko.overleaf.com/learn/latex/Main_Page) &[Tutorial2](https://www.dropbox.com/sh/x6bc2yik5x7w81u/AABG3tBJTkVss9hlpYjwm2MJa?dl=0) & [Tips1](https://github.com/Wookai/paper-tips-and-tricks)  & [LaTeX using vim](https://castel.dev/post/lecture-notes-1/)
 * [LaTeX Table Generator](https://www.tablesgenerator.com/#)
 * [LaTeX Color](http://latexcolor.com/)
 
 ```
-% Definition on the header file
+% Definition on the main file
 \definecolor{applegreen}{rgb}{0.55, 0.71, 0.0}
-\newcommand{\rone}[1]{\textcolor{applegreen}{#1}}
+\definecolor{azure(colorwheel)}{rgb}{0.0, 0.5, 1.0}
 
-% Usage on the Body 
+\newcommand{\rone}[1]{\textcolor{applegreen}{#1}}
+\newcommand{\shk}[1]{\textcolor{azure(colorwheel)}{[OH: #1]}}
+\newcommand{\shkrev}[2]{\textcolor{azure(colorwheel)}{\sout{#1}[OH: #2]}}
+
+% How to use it 
 \rone{Test} 
+\shk{the}
+\shkrev{conformable}{their respective} output
 ```
 * [LaTex Link Color](https://tex.stackexchange.com/questions/525261/better-default-colors-for-hyperref-links)
 * [LaTeX Symbols1](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) & [LaTex Symbols2](https://jjycjnmath.tistory.com/117)
@@ -222,18 +228,24 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 \, - a thin space
 \! - a negative thin space
 ```
-### etc. 
+---
+### Other Tools
 * [PowerPoint](https://www.inflearn.com/course/%ED%8C%8C%EC%9B%8C%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EA%B0%95%EC%A2%8C-quick-start/)
 * [PPT 만들기! | 생각부터 PPT 문서까지 전부 보여드립니다!](https://youtu.be/TCNioTWZWCQ) 
 * [Excel](https://www.inflearn.com/course/%EC%97%91%EC%85%80-%EA%B0%95%EC%A2%8C/)
 * [WaveDrom: Digital Timing Diagram](https://wavedrom.com/) & [관련](https://dreamsailor.tistory.com/5)
 * [Draw.io: visio 대안 무료 Drawing Program](https://www.draw.io/)  &  [관련](https://blog.naver.com/PostView.nhn?blogId=julian_dev&logNo=221461148445&parentCategoryNo=&categoryNo=7&viewDate=&isShowPopularPosts=true&from=search)
 * [Markdown1](https://heropy.blog/2017/09/30/markdown/) & [Markdown2](https://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/) 
-* [Readme MD Generator](https://github.com/kefranabg/readme-md-generator)
+* [ReadMe MD Generator](https://github.com/kefranabg/readme-md-generator)
+* [CV Template](https://github.com/kim-sunghoon/online-cv/tree/master)
 * [Pronunciation - Sounds American Channel](https://www.youtube.com/channel/UC-MSYk9R94F3TMuKAnQ7dDg/playlists)
 * [브릿센트 x 영국영어](https://www.youtube.com/channel/UCq0pVPNYdDWQk1iTS4jTk2w)
 * [Learn English with Emma](https://www.youtube.com/user/EnglishTeacherEmma)
+--- 
+### ETC. 
+* [대학원생 때 알았더라면 좋았을 것들](http://gradschoolstory.net/)
 * [일 잘하는 사람의 보고서 작성법 | 까이기 딱 좋은 보고서 피하기](https://www.youtube.com/watch?v=iFyxYmUHolY) 
+* [웃는 얼굴에 속지 마라! 내 커리어에 치명적인 ‘독버섯 상사’ 감별 법](https://media.fastcampus.co.kr/insight/toxanium_boss/)
 * [퇴사 결정을 내려야할 때는?](https://www.youtube.com/watch?v=vqwY2SwkQ2Q) | [퇴사 제대로 하는 법](https://youtu.be/tKmmJEb-QFg)
 * [거절 잘하는 법](https://youtu.be/rzRGGh9rcCQ)
 * [잠이 안 깨고 항상 피곤할때 해결법](https://www.youtube.com/watch?v=30OadDaCbrA)
