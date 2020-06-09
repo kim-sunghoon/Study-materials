@@ -177,7 +177,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Literature on Neural Architecture Search](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 * [An Overview of Google's Work and AutoML and Future Directions / ICML 2019](https://slideslive.com/38917182/an-overview-of-googles-work-on-automl-and-future-directions) 
 ---
-### Pyorch
+### [PyTorch](pytorch.org)
 * [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
 * [convNet.pytorch - training example ](https://github.com/eladhoffer/convNet.pytorch)
 * [Pytorch로 시작하는 딥러닝](http://taewan.kim/tutorial_manual/dl_pytorch/)
@@ -233,7 +233,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 \shk{the}
 \shkrev{conformable}{their respective} output
 ```
-* [LaTex Link Color](https://tex.stackexchange.com/questions/525261/better-default-colors-for-hyperref-links)
+* [LaTeX Link Color](https://tex.stackexchange.com/questions/525261/better-default-colors-for-hyperref-links)
 ```
 \usepackage{hyperref} 
 \hypersetup{ colorlinks=false, linkcolor=red, filecolor=magenta, urlcolor=cyan, citecolor=green }
