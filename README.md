@@ -203,6 +203,21 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 ### LaTex  
 * [Overleaf Main](https://www.overleaf.com/) & [Tutorial1](https://ko.overleaf.com/learn/latex/Main_Page) &[Tutorial2](https://www.dropbox.com/sh/x6bc2yik5x7w81u/AABG3tBJTkVss9hlpYjwm2MJa?dl=0) & [Tips1](https://github.com/Wookai/paper-tips-and-tricks)  & [LaTeX using vim](https://castel.dev/post/lecture-notes-1/)
 * [LaTeX Table Generator](https://www.tablesgenerator.com/#)
+``` 
+% Rotaing Table: use `sidewaystable` from the `rotating` package
+\usepackage{rotating}
+
+\begin{sidewaystable}
+    \centering
+    \caption{Your caption here}
+   \begin{tabular}{ll}
+    First First & First Second\\
+    Second First & Second Second
+    \end{tabular}
+\end{sidewaystable}
+```
+
+
 * [LaTeX Color](http://latexcolor.com/)
 
 ```
