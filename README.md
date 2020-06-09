@@ -217,7 +217,6 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 \end{sidewaystable}
 ```
 
-
 * [LaTeX Color](http://latexcolor.com/)
 
 ```
@@ -235,6 +234,10 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 \shkrev{conformable}{their respective} output
 ```
 * [LaTex Link Color](https://tex.stackexchange.com/questions/525261/better-default-colors-for-hyperref-links)
+```
+\usepackage{hyperref} 
+\hypersetup{ colorlinks=false, linkcolor=red, filecolor=magenta, urlcolor=cyan, citecolor=green }
+```
 * [LaTeX Symbols1](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols) & [LaTex Symbols2](https://jjycjnmath.tistory.com/117)
 * In a math environment, LaTeX ignores the spaces you type and puts in the spacing that it thinks is best. LaTeX formats mathematics the way it's done in mathematics texts. If you want different spacing, LaTeX provides the following four commands for use in math mode:
 ```
@@ -246,7 +249,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 ---
 ### Other Tools
 * [PowerPoint](https://www.inflearn.com/course/%ED%8C%8C%EC%9B%8C%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EA%B0%95%EC%A2%8C-quick-start/)
-* [PPT 만들기! | 생각부터 PPT 문서까지 전부 보여드립니다!](https://youtu.be/TCNioTWZWCQ) 
+* [PPT 만들기: 생각부터 PPT 문서까지 전부 보여드립니다!](https://youtu.be/TCNioTWZWCQ) 
 * [Excel](https://www.inflearn.com/course/%EC%97%91%EC%85%80-%EA%B0%95%EC%A2%8C/)
 * [WaveDrom: Digital Timing Diagram](https://wavedrom.com/) & [관련](https://dreamsailor.tistory.com/5)
 * [Draw.io: visio 대안 무료 Drawing Program](https://www.draw.io/)  &  [관련](https://blog.naver.com/PostView.nhn?blogId=julian_dev&logNo=221461148445&parentCategoryNo=&categoryNo=7&viewDate=&isShowPopularPosts=true&from=search)
