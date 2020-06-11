@@ -79,6 +79,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
   - [**Papers: Deep Learning & HW Accelerators**](https://github.com/fengbintu/Neural-Networks-on-Silicon)
   - [**Stanford CS217 - Hardware Accelerators for Machine Learning**](https://cs217.stanford.edu/) 
   - [**Embedded and mobile deep learning research resources**(EMDL)](https://github.com/EMDL/awesome-emdl)
+  - [**Collection of recent methods on DNN compression and acceleration**](https://github.com/MingSun-Tse/EfficientDNNs)
   - [Neural Network Acceleration Study](https://github.com/ConstantPark/Nerual-Network-Acceleration)
   - [Neural Network Accelerator Inference](https://nicsefc.ee.tsinghua.edu.cn/projects/neural-network-accelerator/)
   - [UsefulSite1: ETH Zurich](https://www.youtube.com/watch?v=g3yH68hAaSk&list=PL5Q2soXY2Zi9JXe3ywQMhylk_d5dI-TM7) & [UsefulSite2: Cornell ECE4750](https://www.csl.cornell.edu/courses/ece4750/readings.html) & [UsefulSite3: Cornell ECE5745](https://www.csl.cornell.edu/courses/ece5745/handouts.html)
@@ -225,8 +226,8 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 \definecolor{azure(colorwheel)}{rgb}{0.0, 0.5, 1.0}
 
 \newcommand{\rone}[1]{\textcolor{applegreen}{#1}}
-\newcommand{\shk}[1]{\textcolor{azure(colorwheel)}{[OH: #1]}}
-\newcommand{\shkrev}[2]{\textcolor{azure(colorwheel)}{\sout{#1}[OH: #2]}}
+\newcommand{\sh}[1]{\textcolor{azure(colorwheel)}{[SH: #1]}}
+\newcommand{\shrev}[2]{\textcolor{azure(colorwheel)}{\sout{#1}[SH: #2]}}
 
 % How to use it 
 \rone{Test} 
