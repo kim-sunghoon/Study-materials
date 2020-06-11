@@ -201,7 +201,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 
 --- 
 ## 4. Tools: LaTeX / Power Point / Excel / etc. 
-### LaTex  
+### LaTeX  
 * [Overleaf Main](https://www.overleaf.com/) & [Tutorial1](https://ko.overleaf.com/learn/latex/Main_Page) &[Tutorial2](https://www.dropbox.com/sh/x6bc2yik5x7w81u/AABG3tBJTkVss9hlpYjwm2MJa?dl=0) & [Tips1](https://github.com/Wookai/paper-tips-and-tricks)  & [LaTeX using vim](https://castel.dev/post/lecture-notes-1/)
 * [LaTeX Table Generator](https://www.tablesgenerator.com/#)
 ``` 
