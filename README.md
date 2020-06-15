@@ -104,9 +104,11 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
   
 * **Open Source**
    - **DAC SDC** [Overview](http://www.cse.cuhk.edu.hk/~byu/2019-DAC-SDC/index.html), [Winners](https://github.com/xyzxinyizhang/2019-DAC-System-Design-Contest), [Webniar](https://drive.google.com/file/d/1ZFFSMyLNH88ClTnxbovtd7MEx2Ce5dOb/view) 
+      - [DAC SDC 2020 Page](https://dac-sdc-2020.groups.et.byu.net/doku.php)
       - [DAC SDC 2019 FPGA 1st: SkyNet](https://github.com/TomG008/SkyNet) 
       - [DAC SDC 2019 FPGA 2nd: XJTU-Tripler](https://github.com/venturezhao/XJTU-Tripler)
       - [DAC SDC 2019 FPGA 3rd: spooNN](https://github.com/fpgasystems/spooNN/tree/DAC2019)
+      - [DAC SDC 2018 FPGA 1st: TGIIF](https://github.com/hirayaku/DAC2018-TGIIF)
       - [DAC SDC 2018 FPGA 2nd: spooNN](https://github.com/fpgasystems/spooNN)
       - [DAC SDC 2018 FPGA 3rd: iSmart2](https://github.com/onioncc/iSmartDNN)
       - [PYNQ WorkShop](https://github.com/Xilinx/PYNQ_Workshop) 
