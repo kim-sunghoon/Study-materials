@@ -77,8 +77,8 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 
 * Design of Digital Circuits & Computer Architecture 
   - [**MIT Tutorial**](http://eyeriss.mit.edu/tutorial.html)
+  - [**Stanford CS217 - Hardware Accelerators for Machine Learning**](https://cs217.stanford.edu/)
   - [**Papers: Deep Learning & HW Accelerators**](https://github.com/fengbintu/Neural-Networks-on-Silicon)
-  - [**Stanford CS217 - Hardware Accelerators for Machine Learning**](https://cs217.stanford.edu/) 
   - [**Embedded and mobile deep learning research resources**(EMDL)](https://github.com/EMDL/awesome-emdl)
   - [**Collection of recent methods on DNN compression and acceleration**](https://github.com/MingSun-Tse/EfficientDNNs)
   - [Neural Network Acceleration Study](https://github.com/ConstantPark/Nerual-Network-Acceleration)
