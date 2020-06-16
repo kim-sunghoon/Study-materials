@@ -76,6 +76,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [IDEC 2018 자료들](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EhxHE6dNYbBKkWHsAkr--AsBts9atLa5oYiKB8LzfZ1nBg?e=jNRFGP)
 
 * Design of Digital Circuits & Computer Architecture 
+  - [**MIT Tutorial**](http://eyeriss.mit.edu/tutorial.html)
   - [**Papers: Deep Learning & HW Accelerators**](https://github.com/fengbintu/Neural-Networks-on-Silicon)
   - [**Stanford CS217 - Hardware Accelerators for Machine Learning**](https://cs217.stanford.edu/) 
   - [**Embedded and mobile deep learning research resources**(EMDL)](https://github.com/EMDL/awesome-emdl)
