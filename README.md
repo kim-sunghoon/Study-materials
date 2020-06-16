@@ -202,6 +202,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
   - [Jetson Fan Ctrl](https://github.com/Pyrestone/jetson-fan-ctl)
   - [Systemmd1](https://am003507.tistory.com/302) | [Systemmd2](https://www.elex.pe.kr/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-systemd%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B1%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%93%B1%EB%A1%9D)
   - [라즈베리파이 문서](https://wikidocs.net/book/483)
+  - [Interactive map of Linux kernel](https://makelinux.github.io/kernel/map/?fbclid=IwAR0xk6mNTxGM_jvOzfYlNlSKaqCRCSNNBz39kdPn6Wli6WpvBSaqyaXe9KE)
 
 --- 
 ## 4. Tools: LaTeX / Power Point / Excel / etc. 
