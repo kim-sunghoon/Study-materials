@@ -274,6 +274,6 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 <!--
 * [웃는 얼굴에 속지 마라! 내 커리어에 치명적인 ‘독버섯 상사’ 감별 법](https://media.fastcampus.co.kr/insight/toxanium_boss/)
 * [퇴사 결정을 내려야할 때는?](https://www.youtube.com/watch?v=vqwY2SwkQ2Q) | [퇴사 제대로 하는 법](https://youtu.be/tKmmJEb-QFg)
--->
 * [거절 잘하는 법](https://youtu.be/rzRGGh9rcCQ)
 * [잠이 안 깨고 항상 피곤할때 해결법](https://www.youtube.com/watch?v=30OadDaCbrA)
+-->
