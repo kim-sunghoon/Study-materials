@@ -175,6 +175,17 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Paperwithcode](https://paperswithcode.com/)
 * [Benchmarks.AI](https://benchmarks.ai/)
 
+### [PyTorch](pytorch.org)
+* [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
+* [convNet.pytorch - training example ](https://github.com/eladhoffer/convNet.pytorch)
+* [Pytorch로 시작하는 딥러닝](http://taewan.kim/tutorial_manual/dl_pytorch/)
+* [Everything You Need To Know About Saving Weights In PyTorch](https://medium.com/@animesh7pointer/everything-you-need-to-know-about-saving-weights-in-pytorch-572651f3f8de)
+* [pytorch-how-and-when-to-use-module-sequential-modulelist-and-moduledict](https://towardsdatascience.com/pytorch-how-and-when-to-use-module-sequential-modulelist-and-moduledict-7a54597b5f17)
+* [pytorch Autograd](https://teamdable.github.io/techblog/PyTorch-Autograd?fbclid=IwAR0aqsFKGV-fXIUyZdD7nwr2QI9GUDeX_kiW9xqLyaup2E5EU4-FCbPP1q8)
+* [Reproducible PyTorch를 위한 randomness 올바르게 제어하기!](https://hoya012.github.io/blog/reproducible_pytorch/?fbclid=IwAR0MCyMMw-Q1gcrE8HIoVSk842ict52DhoswoWBqzjd1tdG0lq4BXzwk_IE)
+* [PyTorch Multi-GPU 제대로 학습하기](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
+
+---
 ### AutoML
 * [**Awesome-NAS**](https://github.com/D-X-Y/Awesome-NAS)
 * [**Awesome-AutoML-Papers**](https://github.com/hibayesian/awesome-automl-papers)
@@ -183,15 +194,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [An Overview of Google's Work and AutoML and Future Directions / ICML 2019](https://slideslive.com/38917182/an-overview-of-googles-work-on-automl-and-future-directions) 
 * [Using Optuna to Optimize PyTorch Ignite Hyperparameters](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-ignite-hyperparameters-626ffe6d4783)
 * [Catalyst 101 — Accelerated PyTorch](https://medium.com/pytorch/catalyst-101-accelerated-pytorch-bd766a556d92)
----
-### [PyTorch](pytorch.org)
-* [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
-* [convNet.pytorch - training example ](https://github.com/eladhoffer/convNet.pytorch)
-* [Pytorch로 시작하는 딥러닝](http://taewan.kim/tutorial_manual/dl_pytorch/)
-* [Everything You Need To Know About Saving Weights In PyTorch](https://medium.com/@animesh7pointer/everything-you-need-to-know-about-saving-weights-in-pytorch-572651f3f8de)
-* [pytorch-how-and-when-to-use-module-sequential-modulelist-and-moduledict](https://towardsdatascience.com/pytorch-how-and-when-to-use-module-sequential-modulelist-and-moduledict-7a54597b5f17)
-* [pytorch Autograd](https://teamdable.github.io/techblog/PyTorch-Autograd?fbclid=IwAR0aqsFKGV-fXIUyZdD7nwr2QI9GUDeX_kiW9xqLyaup2E5EU4-FCbPP1q8)
-* [PyTorch Multi-GPU 제대로 학습하기](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
+
 ---
 ### Embedded boards 
   - [GPU System Stack](https://github.com/zhangruiskyline/DeepLearning/blob/master/doc/system.md)
