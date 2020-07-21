@@ -75,7 +75,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [문법 모음 사이트](http://verilog.renerta.com/source/vrg00038.htm) 
 * [**연습 문제 사이트 hdlbits!**](https://hdlbits.01xz.net/wiki/Main_Page)
 * [IDEC 2018 자료들](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EhxHE6dNYbBKkWHsAkr--AsBts9atLa5oYiKB8LzfZ1nBg?e=jNRFGP)
-
+* [Facebook HDL Korea (SV/Verilog/VHDL)](https://www.facebook.com/groups/2442026209451002/)
 * Design of Digital Circuits & Computer Architecture 
   - [**MIT Tutorial**](http://eyeriss.mit.edu/tutorial.html)
   - [**Stanford CS217 - Hardware Accelerators for Machine Learning**](https://cs217.stanford.edu/)
