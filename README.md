@@ -1,5 +1,6 @@
-# [CAD and SoC Design Lab Tutorial](http://csdl.postech.ac.kr)
-Study materials
+# Study materials 
+@ [CAD and SoC Design Lab](http://csdl.postech.ac.kr)
+
 # 1. Tools 
 ## Git 
 깃은 코드 관리, 버전 관리를 위해 필수 불가결한 도구로 사용되고 있습니다. 다루는 코드가 많고, 방대해지면 자신을 믿을 수 없게 됩니다.
@@ -209,7 +210,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
   - [Systemmd1](https://am003507.tistory.com/302) | [Systemmd2](https://www.elex.pe.kr/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-systemd%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B1%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%93%B1%EB%A1%9D)
   - [라즈베리파이 문서](https://wikidocs.net/book/483)
   - [Interactive map of Linux kernel](https://makelinux.github.io/kernel/map/?fbclid=IwAR0xk6mNTxGM_jvOzfYlNlSKaqCRCSNNBz39kdPn6Wli6WpvBSaqyaXe9KE)
-
+  - [임베디드 엔지니어 ](https://jpub.tistory.com/m/1064)
 --- 
 ## 4. Tools: LaTeX / Power Point / Excel / etc. 
 ### LaTeX  
@@ -276,6 +277,10 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [대학원생 때 알았더라면 좋았을 것들](http://gradschoolstory.net/)
 * [일 잘하는 사람의 보고서 작성법 | 까이기 딱 좋은 보고서 피하기](https://www.youtube.com/watch?v=iFyxYmUHolY) 
 * [How to write a good review: CVPR 2020 Tutorial](https://www.youtube.com/watch?v=W1zPtTt43LI&feature=youtu.be&fbclid=IwAR2PLlRaxAAsLXfbRqsSY8pw6kHY5UEjWj27sySMeLsVQ93Tq9otQQ0ZyjA)
+* [웃는 얼굴에 속지 마라! 내 커리어에 치명적인 ‘독버섯 상사’ 감별 법](https://media.fastcampus.co.kr/insight/toxanium_boss/)
+* [퇴사 결정을 내려야할 때는?](https://www.youtube.com/watch?v=vqwY2SwkQ2Q) | [퇴사 제대로 하는 법](https://youtu.be/tKmmJEb-QFg)
+* [거절 잘하는 법](https://youtu.be/rzRGGh9rcCQ)
+
 <!--
 * [웃는 얼굴에 속지 마라! 내 커리어에 치명적인 ‘독버섯 상사’ 감별 법](https://media.fastcampus.co.kr/insight/toxanium_boss/)
 * [퇴사 결정을 내려야할 때는?](https://www.youtube.com/watch?v=vqwY2SwkQ2Q) | [퇴사 제대로 하는 법](https://youtu.be/tKmmJEb-QFg)
