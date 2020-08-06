@@ -1,5 +1,5 @@
 # Study materials 
-@ [CAD and SoC Design Lab](http://csdl.postech.ac.kr)
+@ [CAD and SoC Design Lab in POSTECH](http://csdl.postech.ac.kr)
 
 # 1. Tools 
 ## Git 
@@ -175,6 +175,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [LeaderBoard: StateOfTheArt.ai](https://www.stateoftheart.ai/) 
 * [Paperwithcode](https://paperswithcode.com/)
 * [Benchmarks.AI](https://benchmarks.ai/)
+* [DAVIAN Lab. Seminar List](https://github.com/awesome-davian/Paper-study)
 
 ### [PyTorch](pytorch.org)
 * [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
