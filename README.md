@@ -133,7 +133,8 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
  * [The Algorithms: Open Source Resource for Newbies to Learn Algorithms and Implement them in any Programming Language](https://github.com/TheAlgorithms)
  * [Google Coding Style Guides](https://google.github.io/styleguide/)
  * [Programmers Coding Test](https://programmers.co.kr/learn/challenges) 
-
+ * [**gyoogle / tech-interview-for-developer**](https://github.com/gyoogle/tech-interview-for-developer)
+ 
 ### 2.3 Common skills 
 #### C언어
 * [코딩도장 C](https://dojang.io/course/view.php?id=2)
