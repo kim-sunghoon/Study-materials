@@ -146,6 +146,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [생활코딩](https://opentutorials.org/course/1) 
 * [OpenCV](https://www.youtube.com/playlist?list=PLvX6vpRszMkye9Zj16aG9J063A9rBfBj2) 
 * [Darknet: Open Source Neural Networks in C](https://pjreddie.com/darknet/)
+* [C++ Programming Curriculum for undergraduates](https://github.com/jeonhyun97/cpp_4_undergraduates)
 
 #### Python
 * [Python 대학 강의 모음 + Tips](https://github.com/yunho0130/Python_Lectures) 
