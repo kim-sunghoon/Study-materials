@@ -26,6 +26,7 @@
 서버에서 텍스트 편집기 Vim을 주로 사용합니다. 
 * [Simple Vim Guide](https://github.com/johngrib/simple_vim_guide/blob/master/README.md) 
 * [밤앙개 Vim](https://m.blog.naver.com/PostList.nhn?blogId=nfwscho&categoryNo=45&logCode=0) 
+* [Vim 에디터 다양한 기능 설명 및 C++/Python 개발 환경설정 · Edward Im](https://edward0im.github.io/technology/2020/09/17/vim/)
 * [자주 사용하는 vim 플러그인 100](https://agvim.com/2017/09/05/vim-plugins-100/)
 * [Dotfiles/Plugin Auto install](https://github.com/kim-sunghoon/dotfiles)
   - works @ EDA, HDL, CPU, GPU and CNN servers (Except RTL - cetos 6) 
