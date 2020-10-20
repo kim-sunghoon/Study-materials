@@ -32,7 +32,10 @@
   - works @ EDA, HDL, CPU, GPU and CNN servers (Except RTL - cetos 6) 
 
 ## Visual Studio Code 
-* 공 사 중 
+* [1편: VSCode 설치와 유용한 extension 설치 및 사용법, 단축키](https://youtu.be/Xs5aM9FYuic)
+* [2편: VSCode와 Window ubuntu 연결, ubuntu에 Python 설치](https://youtu.be/1Zhb-QEKIEY)
+* [3편: VSCode와 git 연동](https://youtu.be/hKhX87L2ydQ)
+* [알아두면 쓸데있는 VSCode 노하우](https://youtu.be/_QCNqV_EfzE)
 
 ## Linux
 * [**Linux Command Line tool 인프런**](https://www.inflearn.com/course/command-line/#) 
