@@ -31,12 +31,16 @@
 * [Dotfiles/Plugin Auto install](https://github.com/kim-sunghoon/dotfiles)
   - works @ EDA, HDL, CPU, GPU and CNN servers (Except RTL - cetos 6) 
 
+## Visual Studio Code 
+* 공 사 중 
+
 ## Linux
 * [**Linux Command Line tool 인프런**](https://www.inflearn.com/course/command-line/#) 
 * [**이것이 우분투 리눅스다**](https://www.inflearn.com/course/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%9A%B0%EB%B6%84%ED%88%AC-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%8B%A4/)
 * [이것이 리눅스다](https://www.inflearn.com/course/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%8B%A4/)
 * [Linux Bible 자료](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/Es4a1QxvLkBHqBsVsO5zuYgBDhTDqjGPtcnxS7Y2dpENxg?e=1LCcQW) 
 * [Virtual Box1](https://m.blog.naver.com/wideeyed/220960764870) & [Virtual Box2](https://technote.kr/178)
+
 ### Tcl & Using Tool without GUI
 [Tcl (Tool Command Language)](https://ko.wikipedia.org/wiki/Tcl)은 Front-end, Back-end 등에서 사용할 툴들을 조작하는데 사용됩니다. 
 * [Tcl Summary](https://www.dropbox.com/sh/ej208jcrqd6o3xz/AAC1udUUn12vucdSTrymvER-a?dl=0) 
@@ -187,6 +191,10 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
 * [convNet.pytorch - training example ](https://github.com/eladhoffer/convNet.pytorch)
 * [Pytorch로 시작하는 딥러닝](http://taewan.kim/tutorial_manual/dl_pytorch/)
+* [PyTorch Deep Learning by Yan Lecun & Alfredo Canziani]
+    - 강의 슬라이드: https://github.com/Atcold/pytorch-Deep-Learning/tree/master/slides
+    - 동영상: https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq
+    - GitHub(Jupyter Notebook): https://github.com/Atcold/pytorch-Deep-Learning
 * [Everything You Need To Know About Saving Weights In PyTorch](https://medium.com/@animesh7pointer/everything-you-need-to-know-about-saving-weights-in-pytorch-572651f3f8de)
 * [pytorch-how-and-when-to-use-module-sequential-modulelist-and-moduledict](https://towardsdatascience.com/pytorch-how-and-when-to-use-module-sequential-modulelist-and-moduledict-7a54597b5f17)
 * [pytorch Autograd](https://teamdable.github.io/techblog/PyTorch-Autograd?fbclid=IwAR0aqsFKGV-fXIUyZdD7nwr2QI9GUDeX_kiW9xqLyaup2E5EU4-FCbPP1q8)
