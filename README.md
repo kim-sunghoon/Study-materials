@@ -174,6 +174,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [python process time measure](https://stackoverflow.com/questions/52222002/what-is-the-difference-between-time-perf-counter-and-time-process-time/52228375#52228375) 
 * [python profiling](https://wikidocs.net/3692)
 * [python GUI Programming](https://www.youtube.com/watch?v=bKPIcoou9N8&t=1733s) 
+* [자주쓰는 명령어로 배우는 Pandas #1 : Pandas와 데이터 살펴보기](https://sjquant.tistory.com/54)
 ---
 
 ## 3. Application: Deep Learning / AutoML/ Pytorch  
