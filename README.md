@@ -286,7 +286,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Excel](https://www.inflearn.com/course/%EC%97%91%EC%85%80-%EA%B0%95%EC%A2%8C/) & [엑셀 대시보드 만들기](https://www.youtube.com/watch?v=bDOG_uzn0_g)
 * [WaveDrom: Digital Timing Diagram](https://wavedrom.com/) & [관련](https://dreamsailor.tistory.com/5)
 * [Draw.io: visio 대안 무료 Drawing Program](https://www.draw.io/)  &  [관련](https://blog.naver.com/PostView.nhn?blogId=julian_dev&logNo=221461148445&parentCategoryNo=&categoryNo=7&viewDate=&isShowPopularPosts=true&from=search)
-* [Markdown문법1](https://heropy.blog/2017/09/30/markdown/) & [Markdown문법2](https://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/) & [Markdown문법3](http://taewan.kim/post/markdown/#comment)
+* [Markdown문법1](https://heropy.blog/2017/09/30/markdown/) & [Markdown문법2](https://blog.kalkin7.com/2014/02/05/wordpress-markdown-quick-reference-for-koreans/) & [Markdown문법3](http://taewan.kim/post/markdown/#comment) & [Markdown TongDal](https://github.com/zeuseyera/Markdown_TongDal-kr)
 * [ReadMe MD Generator](https://github.com/kefranabg/readme-md-generator)
 * [MkDocs: Project documentation with Markdown](https://blog.naver.com/doksg/221986849004)
 * [Github Extensions](https://www.secmem.org/blog/2019/10/20/useful-chrome-extensions-for-github/)
