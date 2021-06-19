@@ -299,7 +299,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [대학원생 때 알았더라면 좋았을 것들](http://gradschoolstory.net/)
 * [일 잘하는 사람의 보고서 작성법 | 까이기 딱 좋은 보고서 피하기](https://www.youtube.com/watch?v=iFyxYmUHolY) 
 * [How to write a good review: CVPR 2020 Tutorial](https://www.youtube.com/watch?v=W1zPtTt43LI&feature=youtu.be&fbclid=IwAR2PLlRaxAAsLXfbRqsSY8pw6kHY5UEjWj27sySMeLsVQ93Tq9otQQ0ZyjA)
-* * [how-machine-learning-teams-share-and-reuse-features](https://www.tecton.ai/blog/how-machine-learning-teams-share-and-reuse-features/)
+* [how-machine-learning-teams-share-and-reuse-features](https://www.tecton.ai/blog/how-machine-learning-teams-share-and-reuse-features/)
 
 
 
