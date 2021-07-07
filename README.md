@@ -173,9 +173,11 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Matplotlib](https://jehyunlee.github.io/2020/04/21/Python-DS-10-matplotlib_Tools/)
 * [python process time measure](https://stackoverflow.com/questions/52222002/what-is-the-difference-between-time-perf-counter-and-time-process-time/52228375#52228375) 
 * [python profiling](https://wikidocs.net/3692)
-* [python GUI Programming](https://www.youtube.com/watch?v=bKPIcoou9N8&t=1733s) 
 * [자주쓰는 명령어로 배우는 Pandas #1 : Pandas와 데이터 살펴보기](https://sjquant.tistory.com/54)
 * [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165)
+* [python GUI Programming](https://www.youtube.com/watch?v=bKPIcoou9N8&t=1733s) 
+* [파이썬 라이브러리, 점프투파이선 저자 박응용님](https://wikidocs.net/book/5445)
+
 ---
 
 ## 3. Application: Deep Learning / AutoML/ Pytorch  
