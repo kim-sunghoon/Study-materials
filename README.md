@@ -219,6 +219,11 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Catalyst 101 — Accelerated PyTorch](https://medium.com/pytorch/catalyst-101-accelerated-pytorch-bd766a556d92)
 
 ---
+### GNN
+* [dgl](https://github.com/dmlc/dgl)
+* [CS224W: Machine Learning with Graphs Stanford / Winter 2021](http://web.stanford.edu/class/cs224w/)
+  * https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn 
+
 ### Embedded boards 
   - [GPU System Stack](https://github.com/zhangruiskyline/DeepLearning/blob/master/doc/system.md)
   - [IT기술노트](https://wikidocs.net/book/2184) 
