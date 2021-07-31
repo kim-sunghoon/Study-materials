@@ -158,6 +158,22 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [cplusplus.com](http://www.cplusplus.com/)
 * [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
 * [awesome-hpp: A curated list of awesome header-only C++ libraries](https://github.com/p-ranav/awesome-hpp)
+--- 
+### Embedded boards 
+  - [GPU System Stack](https://github.com/zhangruiskyline/DeepLearning/blob/master/doc/system.md)
+  - [IT기술노트](https://wikidocs.net/book/2184) 
+  - [이니프로 카페](https://cafe.naver.com/plduser/14517)  
+  - [ICBanQ](https://www.icbanq.com/A05_templete/templeteList.do?t_idx=203&catg_code=101144129)
+* Nvidia Jetson 
+  - [Jetson User Group for Korean](https://github.com/jetsonworld?tab=repositories) 
+  - [인공지능 하드웨어 개발을 위한 Nvidia Jetson Nano 기초과정](https://www.g.camp/1216) 
+  - [Jetson hacks1](https://github.com/jetsonhacks) | [Jetson hacks2](https://www.jetsonhacks.com/) 
+  - [Jetson Fan Ctrl](https://github.com/Pyrestone/jetson-fan-ctl)
+  - [Systemmd1](https://am003507.tistory.com/302) | [Systemmd2](https://www.elex.pe.kr/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-systemd%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B1%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%93%B1%EB%A1%9D)
+  - [라즈베리파이 문서](https://wikidocs.net/book/483)
+  - [Interactive map of Linux kernel](https://makelinux.github.io/kernel/map/?fbclid=IwAR0xk6mNTxGM_jvOzfYlNlSKaqCRCSNNBz39kdPn6Wli6WpvBSaqyaXe9KE)
+  - [임베디드 엔지니어 ](https://jpub.tistory.com/m/1064)
+--- 
 
 #### Python
 * [Python 대학 강의 모음 + Tips](https://github.com/yunho0130/Python_Lectures) 
@@ -193,6 +209,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Paperwithcode](https://paperswithcode.com/)
 * [Benchmarks.AI](https://benchmarks.ai/)
 * [DAVIAN Lab. Seminar List](https://github.com/awesome-davian/Paper-study)
+* https://github.com/jungwoo-ha/WeeklyArxivTalk
 
 ### [PyTorch](pytorch.org)
 * [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
@@ -223,22 +240,14 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [dgl](https://github.com/dmlc/dgl)
 * [CS224W: Machine Learning with Graphs Stanford / Winter 2021](http://web.stanford.edu/class/cs224w/)
   * https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn 
-
-### Embedded boards 
-  - [GPU System Stack](https://github.com/zhangruiskyline/DeepLearning/blob/master/doc/system.md)
-  - [IT기술노트](https://wikidocs.net/book/2184) 
-  - [이니프로 카페](https://cafe.naver.com/plduser/14517)  
-  - [ICBanQ](https://www.icbanq.com/A05_templete/templeteList.do?t_idx=203&catg_code=101144129)
-* Nvidia Jetson 
-  - [Jetson User Group for Korean](https://github.com/jetsonworld?tab=repositories) 
-  - [인공지능 하드웨어 개발을 위한 Nvidia Jetson Nano 기초과정](https://www.g.camp/1216) 
-  - [Jetson hacks1](https://github.com/jetsonhacks) | [Jetson hacks2](https://www.jetsonhacks.com/) 
-  - [Jetson Fan Ctrl](https://github.com/Pyrestone/jetson-fan-ctl)
-  - [Systemmd1](https://am003507.tistory.com/302) | [Systemmd2](https://www.elex.pe.kr/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-systemd%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%B0%B1%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%93%B1%EB%A1%9D)
-  - [라즈베리파이 문서](https://wikidocs.net/book/483)
-  - [Interactive map of Linux kernel](https://makelinux.github.io/kernel/map/?fbclid=IwAR0xk6mNTxGM_jvOzfYlNlSKaqCRCSNNBz39kdPn6Wli6WpvBSaqyaXe9KE)
-  - [임베디드 엔지니어 ](https://jpub.tistory.com/m/1064)
+* [Deep-GCNS](https://sites.google.com/view/deep-gcns/home)
 --- 
+### XAI, SHAP
+* https://aims.cs.washington.edu/research 
+* [Explainable AI for Trees_ From Local Explanations to Global Understanding, Scott M. Lundberg et al., 2019](https://arxiv.org/abs/1905.04610) 
+
+---
+
 ## 4. Tools: LaTeX / Power Point / Excel / etc. 
 ### LaTeX  
 * [Overleaf Main](https://www.overleaf.com/) & [Tutorial1](https://ko.overleaf.com/learn/latex/Main_Page) &[Tutorial2](https://www.dropbox.com/sh/x6bc2yik5x7w81u/AABG3tBJTkVss9hlpYjwm2MJa?dl=0) & [Tips1](https://github.com/Wookai/paper-tips-and-tricks)  & [LaTeX using vim](https://castel.dev/post/lecture-notes-1/)
@@ -288,6 +297,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 ```
 ---
 ### Other Tools
+* [arxive - Chrome 웹 스토어 (google.com) arxive 논문 저장용이](https://chrome.google.com/webstore/detail/arxive/hkoblclipggkhhbllgefhnbjdcajmelh) 
 * [PowerPoint](https://www.inflearn.com/course/%ED%8C%8C%EC%9B%8C%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EA%B0%95%EC%A2%8C-quick-start/)
 * [PPT 만들기: 생각부터 PPT 문서까지 전부 보여드립니다!](https://youtu.be/TCNioTWZWCQ) 
 * [Excel](https://www.inflearn.com/course/%EC%97%91%EC%85%80-%EA%B0%95%EC%A2%8C/) & [엑셀 대시보드 만들기](https://www.youtube.com/watch?v=bDOG_uzn0_g)
@@ -312,11 +322,6 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 
 
 
-<!--
-* [웃는 얼굴에 속지 마라! 내 커리어에 치명적인 ‘독버섯 상사’ 감별 법](https://media.fastcampus.co.kr/insight/toxanium_boss/)
-* [퇴사 결정을 내려야할 때는?](https://www.youtube.com/watch?v=vqwY2SwkQ2Q) | [퇴사 제대로 하는 법](https://youtu.be/tKmmJEb-QFg)
-* [거절 잘하는 법](https://youtu.be/rzRGGh9rcCQ)
--->
 
 <!--
 * [웃는 얼굴에 속지 마라! 내 커리어에 치명적인 ‘독버섯 상사’ 감별 법](https://media.fastcampus.co.kr/insight/toxanium_boss/)
