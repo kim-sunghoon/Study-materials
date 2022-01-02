@@ -40,6 +40,8 @@
 ## Linux
 * [**Linux Command Line tool 인프런**](https://www.inflearn.com/course/command-line/#) 
 * [**이것이 우분투 리눅스다**](https://www.inflearn.com/course/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%9A%B0%EB%B6%84%ED%88%AC-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%8B%A4/)
+* :star2: [**modern-unix tool**](https://github.com/ibraheemdev/modern-unix) 
+  * [git-fuzzy](https://github.com/bigH/git-fuzzy)
 * [이것이 리눅스다](https://www.inflearn.com/course/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%8B%A4/)
 * [Linux Bible 자료](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/Es4a1QxvLkBHqBsVsO5zuYgBDhTDqjGPtcnxS7Y2dpENxg?e=1LCcQW) 
 * [Virtual Box1](https://m.blog.naver.com/wideeyed/220960764870) & [Virtual Box2](https://technote.kr/178)
@@ -135,13 +137,18 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
    
 
  --- 
- ### 2.2 Back-end --> Algorithm  
+ ### 2.2 Back-end --> Algorithm + Computer Science Basics 
  * [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md?fbclid=IwAR1eEcSeLhYSkTps68RE3bjvGEuCGBU5QjpSIEEVIOJ_yCqoijc8wSKDXQs#vim) 
  * [Deep Into Algorithm from MIT](https://www.edwith.org/introalgorithm)
  * [The Algorithms: Open Source Resource for Newbies to Learn Algorithms and Implement them in any Programming Language](https://github.com/TheAlgorithms)
  * [Google Coding Style Guides](https://google.github.io/styleguide/)
  * [Programmers Coding Test](https://programmers.co.kr/learn/challenges) 
  * [**gyoogle / tech-interview-for-developer**](https://github.com/gyoogle/tech-interview-for-developer)
+ * [**신입 개발자 면접을 위한 지식 총 정리**](https://rokrokss.com/post/2019/04/06/%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-%EC%A0%84%EC%82%B0-%EC%88%98%EC%97%85-%EC%B4%9D%EC%A0%95%EB%A6%AC.html#network)
+ * [**boostcamp ai-tech-interview**](https://github.com/boostcamp-ai-tech-4/ai-tech-interview) 
+ * [**brave-people brave-tech-interview**](https://github.com/brave-people/brave-tech-interview) 
+ * [**brave-people Awesome-Dev-Contents**](https://github.com/brave-people/Awesome-Dev-Contents)
+ * [awesome dev blog](https://disquiet.io/product/%EC%96%B4%EC%8D%B8%EB%8D%B0%EB%B8%8C%EB%B8%94%EB%A1%9C%EA%B7%B8)
  
 ### 2.3 Common skills 
 #### C언어
@@ -193,7 +200,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165)
 * [python GUI Programming](https://www.youtube.com/watch?v=bKPIcoou9N8&t=1733s) 
 * [파이썬 라이브러리, 점프투파이선 저자 박응용님](https://wikidocs.net/book/5445)
-
+* [파이썬 알고리즘 인터뷰](https://github.com/onlybooks/algorithm-interview) 
 ---
 
 ## 3. Application: Deep Learning / AutoML/ Pytorch  
@@ -311,6 +318,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Pronunciation - Sounds American Channel](https://www.youtube.com/channel/UC-MSYk9R94F3TMuKAnQ7dDg/playlists)
 * [브릿센트 x 영국영어](https://www.youtube.com/channel/UCq0pVPNYdDWQk1iTS4jTk2w)
 * [Learn English with Emma](https://www.youtube.com/user/EnglishTeacherEmma)
+* [Brave browser](https://brave.com/ko/)
 --- 
 ### ETC. 
 * [대학원생 때 알았더라면 좋았을 것들](http://gradschoolstory.net/)
