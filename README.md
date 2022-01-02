@@ -27,7 +27,6 @@
 * [Simple Vim Guide](https://github.com/johngrib/simple_vim_guide/blob/master/README.md) 
 * [밤앙개 Vim](https://m.blog.naver.com/PostList.nhn?blogId=nfwscho&categoryNo=45&logCode=0) 
 * [Vim 에디터 다양한 기능 설명 및 C++/Python 개발 환경설정 · Edward Im](https://edward0im.github.io/technology/2020/09/17/vim/)
-* [자주 사용하는 vim 플러그인 100](https://agvim.com/2017/09/05/vim-plugins-100/)
 * [Dotfiles/Plugin Auto install](https://github.com/kim-sunghoon/dotfiles)
   - works @ EDA, HDL, CPU, GPU and CNN servers (Except RTL - cetos 6) 
 
@@ -234,6 +233,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [albumentations - fast image augmentation library 소개 및 사용법 Tutorial](https://hoya012.github.io/blog/albumentation_tutorial/)
 ---
 ### AutoML
+* [**pycaret**](https://pycaret.org/)
 * [**Awesome-NAS**](https://github.com/D-X-Y/Awesome-NAS)
 * [**Awesome-AutoML-Papers**](https://github.com/hibayesian/awesome-automl-papers)
 * [awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
