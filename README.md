@@ -147,6 +147,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
  * [**boostcamp ai-tech-interview**](https://github.com/boostcamp-ai-tech-4/ai-tech-interview) 
  * [**brave-people brave-tech-interview**](https://github.com/brave-people/brave-tech-interview) 
  * [**brave-people Awesome-Dev-Contents**](https://github.com/brave-people/Awesome-Dev-Contents)
+ * [Deep Learning Interviews book](https://github.com/BoltzmannEntropy/interviews.ai)
  * [awesome dev blog](https://disquiet.io/product/%EC%96%B4%EC%8D%B8%EB%8D%B0%EB%B8%8C%EB%B8%94%EB%A1%9C%EA%B7%B8)
  
 ### 2.3 Common skills 
@@ -216,6 +217,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Benchmarks.AI](https://benchmarks.ai/)
 * [DAVIAN Lab. Seminar List](https://github.com/awesome-davian/Paper-study)
 * https://github.com/jungwoo-ha/WeeklyArxivTalk
+* https://github.com/sangyun884/Diffusion-Models-Seminar
 
 ### [PyTorch](pytorch.org)
 * [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
@@ -248,10 +250,14 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [CS224W: Machine Learning with Graphs Stanford / Winter 2021](http://web.stanford.edu/class/cs224w/)
   * https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn 
 * [Deep-GCNS](https://sites.google.com/view/deep-gcns/home)
---- 
+
 ### XAI, SHAP
 * https://aims.cs.washington.edu/research 
 * [Explainable AI for Trees_ From Local Explanations to Global Understanding, Scott M. Lundberg et al., 2019](https://arxiv.org/abs/1905.04610) 
+
+### MLOps
+* https://github.com/graviraja/MLOps-Basics 
+
 
 ---
 
