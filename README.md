@@ -1,7 +1,7 @@
 # Study materials 
 @ [CAD and SoC Design Lab in POSTECH](http://csdl.postech.ac.kr)
 
-# 1. Tools 
+# 📖 1. Tools 
 ## Git 
 깃은 코드 관리, 버전 관리를 위해 필수 불가결한 도구로 사용되고 있습니다. 다루는 코드가 많고, 방대해지면 자신을 믿을 수 없게 됩니다.
 협업에서도 중요한 역할을 합니다. [Summary-1](https://github.com/KennethanCeyer/tutorial-git) & [Summary-2 | 웹말고 다운 받아 보세요](https://www.slideshare.net/IldooKim/170209-github-introduction-korean-version)
@@ -73,7 +73,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
     ```$ rm -rf myfolderlink/  --> Bad End```
 ---   
 
-## 2. How to make a chip? | Front-end and Back-end of hardware design
+## ♦️ 2. How to make a chip? | Front-end and Back-end of hardware design
 ### 하드웨어란?
 범용적으로 사용할 수 있는 소프트웨어와 달리 하드웨어는 특수한 목적으로 동작하는 장치입니다. 만드는데 오랜 시간과 많은 비용이 소모되지만 저전력으로 높은 성능을 얻을 수 있어 하드웨어를 사용합니다. 하드웨어는 개발 단계가 진행될 수록 버그를 찾기 힘들며, 수정하기 어렵고, 수정 비용이 크게 증가합니다. 따라서 각각의 개발 프로세스를 이해하고 준수하는 일이 무엇보다 중요합니다. 하드웨어를 설계하는 과정은 크게 Front-end와 Back-end 두 가지로 구분할 수 있습니다. Front-end는 하드웨어의 스펙과 동작을 정의해서 논리 회로로 구성된 netlist를 만들어내는 과정이며, Back-end는 설계된 로직을 실제 Die로 배치하는 등의 물리적인일을 담당합니다. 빌딩을 짓는 과정으로 예를 들면 건물의 크기 등의 스펙을 결정한 후 캐드등의 툴을 사용해서 도면을 그려보는 과정이 front-end 입니다. 설계 의도에 따라 아파트가 될 수 도있고 주상복합이 될 수있는 것처럼 어떤 하드웨어를 만들 것인지 명확한 정의가 필요한 과정입니다. 이어서 도면과 설계도를 기반으로 건물을 완성하는 과정이 back-end 입니다. 일을 하는 순서, 혹은 재료를 공급하는 시기 적절함에 따라 작업의 효율성이 달라질 수 있으며, 마감 처리등에 따라 완성도 (성능)가 달라질 수 있습니다. back-end는 설계 의도를 반영해서 물리적인 하드웨어 chip을 만드는 과정입니다.
 [Ref](http://sharebook.kr/pages/viewpage.action?pageId=9437607)
@@ -136,15 +136,15 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
    
 
  --- 
- ### 2.2 Back-end --> Algorithm + Computer Science Basics 
+ ### 📢 2.2 Back-end --> Algorithm + Computer Science Basics 
  * [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md?fbclid=IwAR1eEcSeLhYSkTps68RE3bjvGEuCGBU5QjpSIEEVIOJ_yCqoijc8wSKDXQs#vim) 
  * [Deep Into Algorithm from MIT](https://www.edwith.org/introalgorithm)
  * [The Algorithms: Open Source Resource for Newbies to Learn Algorithms and Implement them in any Programming Language](https://github.com/TheAlgorithms)
  * [Google Coding Style Guides](https://google.github.io/styleguide/)
  * [Programmers Coding Test](https://programmers.co.kr/learn/challenges) 
  * [**gyoogle / tech-interview-for-developer**](https://github.com/gyoogle/tech-interview-for-developer)
- * [**신입 개발자 면접을 위한 지식 총 정리**](https://rokrokss.com/post/2019/04/06/%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-%EC%A0%84%EC%82%B0-%EC%88%98%EC%97%85-%EC%B4%9D%EC%A0%95%EB%A6%AC.html#network)
- * [**boostcamp ai-tech-interview**](https://github.com/boostcamp-ai-tech-4/ai-tech-interview) 
+ * 🥇 [**신입 개발자 면접을 위한 지식 총 정리**](https://rokrokss.com/post/2019/04/06/%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-%EC%A0%84%EC%82%B0-%EC%88%98%EC%97%85-%EC%B4%9D%EC%A0%95%EB%A6%AC.html#network)
+ * 🌠 [**boostcamp ai-tech-interview**](https://github.com/boostcamp-ai-tech-4/ai-tech-interview) 
  * [**brave-people brave-tech-interview**](https://github.com/brave-people/brave-tech-interview) 
  * [**brave-people Awesome-Dev-Contents**](https://github.com/brave-people/Awesome-Dev-Contents)
  * [Deep Learning Interviews book](https://github.com/BoltzmannEntropy/interviews.ai)
@@ -215,8 +215,8 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [LeaderBoard: StateOfTheArt.ai](https://www.stateoftheart.ai/) 
 * [Paperwithcode](https://paperswithcode.com/)
 * [Benchmarks.AI](https://benchmarks.ai/)
-* [DAVIAN Lab. Seminar List](https://github.com/awesome-davian/Paper-study)
-* https://github.com/jungwoo-ha/WeeklyArxivTalk
+* 🌠 [DAVIAN Lab. Seminar List](https://github.com/awesome-davian/Paper-study)
+* 🌸 https://github.com/jungwoo-ha/WeeklyArxivTalk
 * https://github.com/sangyun884/Diffusion-Models-Seminar
 
 ### [PyTorch](pytorch.org)
@@ -235,7 +235,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [albumentations - fast image augmentation library 소개 및 사용법 Tutorial](https://hoya012.github.io/blog/albumentation_tutorial/)
 ---
 ### AutoML
-* [**pycaret**](https://pycaret.org/)
+* 🥇 [**pycaret**](https://pycaret.org/)
 * [**Awesome-NAS**](https://github.com/D-X-Y/Awesome-NAS)
 * [**Awesome-AutoML-Papers**](https://github.com/hibayesian/awesome-automl-papers)
 * [awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
@@ -243,6 +243,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [An Overview of Google's Work and AutoML and Future Directions / ICML 2019](https://slideslive.com/38917182/an-overview-of-googles-work-on-automl-and-future-directions) 
 * [Using Optuna to Optimize PyTorch Ignite Hyperparameters](https://medium.com/pytorch/using-optuna-to-optimize-pytorch-ignite-hyperparameters-626ffe6d4783)
 * [Catalyst 101 — Accelerated PyTorch](https://medium.com/pytorch/catalyst-101-accelerated-pytorch-bd766a556d92)
+* [NeurIPS 2021, Amazon Benchmarking Multimodal AutoML for Tabular Data with Text Fields](https://arxiv.org/abs/2111.02705)
 
 ---
 ### GNN
@@ -254,7 +255,9 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 ### XAI, SHAP
 * https://aims.cs.washington.edu/research 
 * [Explainable AI for Trees_ From Local Explanations to Global Understanding, Scott M. Lundberg et al., 2019](https://arxiv.org/abs/1905.04610) 
-
+* DBSM XAI Seminar 
+  1. https://www.youtube.com/watch?v=Grc7egfZP84
+  2. NIPS2020 ON CONCEPT-BASED EXPLANATIONS IN DEEP NEURAL NETWORKS https://www.youtube.com/watch?v=-l8vqkCu91M 
 ### MLOps
 * https://github.com/graviraja/MLOps-Basics 
 
