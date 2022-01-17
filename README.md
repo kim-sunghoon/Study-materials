@@ -218,6 +218,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * 🌠 [DAVIAN Lab. Seminar List](https://github.com/awesome-davian/Paper-study)
 * 🌸 https://github.com/jungwoo-ha/WeeklyArxivTalk
 * https://github.com/sangyun884/Diffusion-Models-Seminar
+* https://github.com/labmlai/annotated_deep_learning_paper_implementations
 
 ### [PyTorch](pytorch.org)
 * [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
