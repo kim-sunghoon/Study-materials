@@ -73,14 +73,14 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
     ```$ rm -rf myfolderlink/  --> Bad End```
 ---   
 
-## ♦️ 2. How to make a chip? | Front-end and Back-end of hardware design
-### 하드웨어란?
-범용적으로 사용할 수 있는 소프트웨어와 달리 하드웨어는 특수한 목적으로 동작하는 장치입니다. 만드는데 오랜 시간과 많은 비용이 소모되지만 저전력으로 높은 성능을 얻을 수 있어 하드웨어를 사용합니다. 하드웨어는 개발 단계가 진행될 수록 버그를 찾기 힘들며, 수정하기 어렵고, 수정 비용이 크게 증가합니다. 따라서 각각의 개발 프로세스를 이해하고 준수하는 일이 무엇보다 중요합니다. 하드웨어를 설계하는 과정은 크게 Front-end와 Back-end 두 가지로 구분할 수 있습니다. Front-end는 하드웨어의 스펙과 동작을 정의해서 논리 회로로 구성된 netlist를 만들어내는 과정이며, Back-end는 설계된 로직을 실제 Die로 배치하는 등의 물리적인일을 담당합니다. 빌딩을 짓는 과정으로 예를 들면 건물의 크기 등의 스펙을 결정한 후 캐드등의 툴을 사용해서 도면을 그려보는 과정이 front-end 입니다. 설계 의도에 따라 아파트가 될 수 도있고 주상복합이 될 수있는 것처럼 어떤 하드웨어를 만들 것인지 명확한 정의가 필요한 과정입니다. 이어서 도면과 설계도를 기반으로 건물을 완성하는 과정이 back-end 입니다. 일을 하는 순서, 혹은 재료를 공급하는 시기 적절함에 따라 작업의 효율성이 달라질 수 있으며, 마감 처리등에 따라 완성도 (성능)가 달라질 수 있습니다. back-end는 설계 의도를 반영해서 물리적인 하드웨어 chip을 만드는 과정입니다.
+# ♦️ 2. How to make a chip? | Front-end and Back-end of hardware design
+* 하드웨어란?
+> 범용적으로 사용할 수 있는 소프트웨어와 달리 하드웨어는 특수한 목적으로 동작하는 장치입니다. 만드는데 오랜 시간과 많은 비용이 소모되지만 저전력으로 높은 성능을 얻을 수 있어 하드웨어를 사용합니다. 하드웨어는 개발 단계가 진행될 수록 버그를 찾기 힘들며, 수정하기 어렵고, 수정 비용이 크게 증가합니다. 따라서 각각의 개발 프로세스를 이해하고 준수하는 일이 무엇보다 중요합니다. 하드웨어를 설계하는 과정은 크게 Front-end와 Back-end 두 가지로 구분할 수 있습니다. Front-end는 하드웨어의 스펙과 동작을 정의해서 논리 회로로 구성된 netlist를 만들어내는 과정이며, Back-end는 설계된 로직을 실제 Die로 배치하는 등의 물리적인일을 담당합니다. 빌딩을 짓는 과정으로 예를 들면 건물의 크기 등의 스펙을 결정한 후 캐드등의 툴을 사용해서 도면을 그려보는 과정이 front-end 입니다. 설계 의도에 따라 아파트가 될 수 도있고 주상복합이 될 수있는 것처럼 어떤 하드웨어를 만들 것인지 명확한 정의가 필요한 과정입니다. 이어서 도면과 설계도를 기반으로 건물을 완성하는 과정이 back-end 입니다. 일을 하는 순서, 혹은 재료를 공급하는 시기 적절함에 따라 작업의 효율성이 달라질 수 있으며, 마감 처리등에 따라 완성도 (성능)가 달라질 수 있습니다. back-end는 설계 의도를 반영해서 물리적인 하드웨어 chip을 만드는 과정입니다.
 [Ref](http://sharebook.kr/pages/viewpage.action?pageId=9437607)
 
-### [Intro. to EDA Tools from IDEC](https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/ESZoiswddKFNnuuUAbuFEkABf2FO0CURwxHzSgMV8ZHdEA?e=cETyeJ)
+## [Intro. to EDA Tools from IDEC](https://postechackr-my.sharepoint.com/:b:/g/personal/sunghoon1kim_postech_ac_kr/ESZoiswddKFNnuuUAbuFEkABf2FO0CURwxHzSgMV8ZHdEA?e=cETyeJ)
 
-### 2.1 Front-end - HDL (Verilog Coding)
+## Front-end - HDL (Verilog Coding)
 * [문법 모음 사이트](http://verilog.renerta.com/source/vrg00038.htm) 
 * [**연습 문제 사이트 hdlbits!**](https://hdlbits.01xz.net/wiki/Main_Page)
 * [IDEC 2018 자료들](https://postechackr-my.sharepoint.com/:f:/g/personal/sunghoon1kim_postech_ac_kr/EhxHE6dNYbBKkWHsAkr--AsBts9atLa5oYiKB8LzfZ1nBg?e=jNRFGP)
@@ -136,7 +136,16 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
    
 
  --- 
- ### 📢 2.2 Back-end --> Algorithm + Computer Science Basics 
+ ## Back-end 
+ * VLSI Physical Design: From Graph Partitioning to Timing Closure 
+  * https://link.springer.com/book/10.1007/978-90-481-9591-6
+ * https://github.com/The-OpenROAD-Project/OpenROAD 
+ * https://github.com/siliconcompiler/siliconcompiler 
+ * [Nature 2021, Google] A graph placement methodology for fast chip design. 
+  * code: https://github.com/google-research/circuit_training 
+---  
+# 📢 3 Common skills 
+## Algorithm + Computer Science Basics 
  * [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md?fbclid=IwAR1eEcSeLhYSkTps68RE3bjvGEuCGBU5QjpSIEEVIOJ_yCqoijc8wSKDXQs#vim) 
  * [Deep Into Algorithm from MIT](https://www.edwith.org/introalgorithm)
  * [The Algorithms: Open Source Resource for Newbies to Learn Algorithms and Implement them in any Programming Language](https://github.com/TheAlgorithms)
@@ -149,9 +158,8 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
  * [**brave-people Awesome-Dev-Contents**](https://github.com/brave-people/Awesome-Dev-Contents)
  * [Deep Learning Interviews book](https://github.com/BoltzmannEntropy/interviews.ai)
  * [awesome dev blog](https://disquiet.io/product/%EC%96%B4%EC%8D%B8%EB%8D%B0%EB%B8%8C%EB%B8%94%EB%A1%9C%EA%B7%B8)
- 
-### 2.3 Common skills 
-#### C언어
+
+## C언어
 * [코딩도장 C](https://dojang.io/course/view.php?id=2)
 * [Embedded C](http://www.seoulworkshop.org/tag/Embedded_C?fbclid=IwAR1w9VR1a3uBb8Y7vSM6ystwe_4gjCK9XstcvDjiMZcDpaKnFJrsYni87-o) 
 * [임베디드 프로그래밍 C 코드 최적화 eBook](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0001100000&sc.prdNo=250377090&sc.saNo=007&bnid1=book_2015&bnid2=bottom&bnid3=Author&bnid4=relate_book)
@@ -166,7 +174,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://github.com/changkun/modern-cpp-tutorial)
 * [awesome-hpp: A curated list of awesome header-only C++ libraries](https://github.com/p-ranav/awesome-hpp)
 --- 
-### Embedded boards 
+## Embedded boards 
   - [GPU System Stack](https://github.com/zhangruiskyline/DeepLearning/blob/master/doc/system.md)
   - [IT기술노트](https://wikidocs.net/book/2184) 
   - [이니프로 카페](https://cafe.naver.com/plduser/14517)  
@@ -182,7 +190,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
   - [임베디드 엔지니어 ](https://jpub.tistory.com/m/1064)
 --- 
 
-#### Python
+## Python
 * [Python 대학 강의 모음 + Tips](https://github.com/yunho0130/Python_Lectures) 
 * [K-Mooc: 데이터 과학을 위한 파이썬 입문](https://github.com/TeamLab/Gachon_CS50_Python_KMOOC)
 * [pyCheckiO - python quiz](https://py.checkio.org/)
@@ -203,7 +211,8 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [파이썬 알고리즘 인터뷰](https://github.com/onlybooks/algorithm-interview) 
 ---
 
-## 3. Application: Deep Learning / AutoML/ Pytorch  
+# 4. Application: Deep Learning 
+## Basics + Seminar 
 * [머신러닝과 딥러닝 BASIC](https://www.edwith.org/others26)
 * [GIST yongyi lee 머신러닝 BASIC] - [Slide](https://drive.google.com/file/d/1dLypFb0WS25_y1wL4uyzlhjByB7qCe4W/view?fbclid=IwAR1dJJI2O2YsX7js-ZRwRXsULxHOxHx_Q-6ur0DCCCV8ULMixFqhwB_PJvU), [Youtube](https://www.youtube.com/watch?v=hJH4w6mXIoE&feature=youtu.be&fbclid=IwAR0ln4NDNyfRSx8lae-nOObs2crAPXcbTA0D0_NHWuwo1nA61Hoxk2hEhk4)
 * [역전파 알고리즘 완전정복](https://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/BP/bp.ipynb?fbclid=IwAR1KMcFHPJs5St-RMKDHODe7L4bWhVM27j_lDCRmGCBK4tb2lbsWs8E3ocY) 
@@ -220,7 +229,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * https://github.com/sangyun884/Diffusion-Models-Seminar
 * https://github.com/labmlai/annotated_deep_learning_paper_implementations
 
-### [PyTorch](pytorch.org)
+## [PyTorch](pytorch.org)
 * [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
 * [convNet.pytorch - training example ](https://github.com/eladhoffer/convNet.pytorch)
 * [Pytorch로 시작하는 딥러닝](http://taewan.kim/tutorial_manual/dl_pytorch/)
@@ -235,7 +244,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [PyTorch Multi-GPU 제대로 학습하기](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
 * [albumentations - fast image augmentation library 소개 및 사용법 Tutorial](https://hoya012.github.io/blog/albumentation_tutorial/)
 ---
-### AutoML
+## AutoML
 * 🥇 [**pycaret**](https://pycaret.org/)
 * [**Awesome-NAS**](https://github.com/D-X-Y/Awesome-NAS)
 * [**Awesome-AutoML-Papers**](https://github.com/hibayesian/awesome-automl-papers)
@@ -246,14 +255,14 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Catalyst 101 — Accelerated PyTorch](https://medium.com/pytorch/catalyst-101-accelerated-pytorch-bd766a556d92)
 * [NeurIPS 2021, Amazon Benchmarking Multimodal AutoML for Tabular Data with Text Fields](https://arxiv.org/abs/2111.02705)
 
----
-### GNN
+
+## GNN
 * [dgl](https://github.com/dmlc/dgl)
 * [CS224W: Machine Learning with Graphs Stanford / Winter 2021](http://web.stanford.edu/class/cs224w/)
   * https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn 
 * [Deep-GCNS](https://sites.google.com/view/deep-gcns/home)
 
-### XAI, SHAP
+## XAI, SHAP
 * https://aims.cs.washington.edu/research 
 * [Explainable AI for Trees_ From Local Explanations to Global Understanding, Scott M. Lundberg et al., 2019](https://arxiv.org/abs/1905.04610) 
 * DBSM XAI Seminar 
@@ -265,8 +274,8 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 
 ---
 
-## 4. Tools: LaTeX / Power Point / Excel / etc. 
-### LaTeX  
+# 5. Tools: LaTeX / Power Point / Excel / etc. 
+## LaTeX  
 * [Overleaf Main](https://www.overleaf.com/) & [Tutorial1](https://ko.overleaf.com/learn/latex/Main_Page) &[Tutorial2](https://www.dropbox.com/sh/x6bc2yik5x7w81u/AABG3tBJTkVss9hlpYjwm2MJa?dl=0) & [Tips1](https://github.com/Wookai/paper-tips-and-tricks)  & [LaTeX using vim](https://castel.dev/post/lecture-notes-1/)
 * [LaTeX Table Generator](https://www.tablesgenerator.com/#)
 ``` 
@@ -313,7 +322,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 \! - a negative thin space
 ```
 ---
-### Other Tools
+## Other Tools
 * [arxive - Chrome 웹 스토어 (google.com) arxive 논문 저장용이](https://chrome.google.com/webstore/detail/arxive/hkoblclipggkhhbllgefhnbjdcajmelh) 
 * [PowerPoint](https://www.inflearn.com/course/%ED%8C%8C%EC%9B%8C%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EA%B0%95%EC%A2%8C-quick-start/)
 * [PPT 만들기: 생각부터 PPT 문서까지 전부 보여드립니다!](https://youtu.be/TCNioTWZWCQ) 
@@ -330,7 +339,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Learn English with Emma](https://www.youtube.com/user/EnglishTeacherEmma)
 * [Brave browser](https://brave.com/ko/)
 --- 
-### ETC. 
+## ETC. 
 * [대학원생 때 알았더라면 좋았을 것들](http://gradschoolstory.net/)
 * [일 잘하는 사람의 보고서 작성법 | 까이기 딱 좋은 보고서 피하기](https://www.youtube.com/watch?v=iFyxYmUHolY) 
 * [How to write a good review: CVPR 2020 Tutorial](https://www.youtube.com/watch?v=W1zPtTt43LI&feature=youtu.be&fbclid=IwAR2PLlRaxAAsLXfbRqsSY8pw6kHY5UEjWj27sySMeLsVQ93Tq9otQQ0ZyjA)
