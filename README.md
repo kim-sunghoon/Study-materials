@@ -137,12 +137,11 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 
  --- 
  ## Back-end 
- * VLSI Physical Design: From Graph Partitioning to Timing Closure 
-  * https://link.springer.com/book/10.1007/978-90-481-9591-6
+ * VLSI Physical Design: From Graph Partitioning to Timing Closure: https://link.springer.com/book/10.1007/978-90-481-9591-6
  * https://github.com/The-OpenROAD-Project/OpenROAD 
  * https://github.com/siliconcompiler/siliconcompiler 
  * [Nature 2021, Google] A graph placement methodology for fast chip design. 
-  * code: https://github.com/google-research/circuit_training 
+     - code: https://github.com/google-research/circuit_training 
 ---  
 # 📢 3 Common skills 
 ## Algorithm + Computer Science Basics 
@@ -228,6 +227,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * 🌸 https://github.com/jungwoo-ha/WeeklyArxivTalk
 * https://github.com/sangyun884/Diffusion-Models-Seminar
 * https://github.com/labmlai/annotated_deep_learning_paper_implementations
+* Pyon 2021 머신러닝 엔지니어 커리어 로드맵: https://youtu.be/XM4hBpSylpM
 
 ## [PyTorch](pytorch.org)
 * [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
@@ -261,6 +261,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [CS224W: Machine Learning with Graphs Stanford / Winter 2021](http://web.stanford.edu/class/cs224w/)
   * https://youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn 
 * [Deep-GCNS](https://sites.google.com/view/deep-gcns/home)
+* Intro to graph neural networks: https://youtu.be/8owQBFAHw7E
 
 ## XAI, SHAP
 * https://aims.cs.washington.edu/research 
@@ -268,7 +269,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * DBSM XAI Seminar 
   1. https://www.youtube.com/watch?v=Grc7egfZP84
   2. NIPS2020 ON CONCEPT-BASED EXPLANATIONS IN DEEP NEURAL NETWORKS https://www.youtube.com/watch?v=-l8vqkCu91M 
-### MLOps
+## MLOps
 * https://github.com/graviraja/MLOps-Basics 
 
 
