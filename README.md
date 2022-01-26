@@ -212,6 +212,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 
 # 4. Application: Deep Learning 
 ## Basics + Seminar 
+* Probability Distribution: https://distribution-explorer.github.io/
 * [머신러닝과 딥러닝 BASIC](https://www.edwith.org/others26)
 * [GIST yongyi lee 머신러닝 BASIC] - [Slide](https://drive.google.com/file/d/1dLypFb0WS25_y1wL4uyzlhjByB7qCe4W/view?fbclid=IwAR1dJJI2O2YsX7js-ZRwRXsULxHOxHx_Q-6ur0DCCCV8ULMixFqhwB_PJvU), [Youtube](https://www.youtube.com/watch?v=hJH4w6mXIoE&feature=youtu.be&fbclid=IwAR0ln4NDNyfRSx8lae-nOObs2crAPXcbTA0D0_NHWuwo1nA61Hoxk2hEhk4)
 * [역전파 알고리즘 완전정복](https://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/BP/bp.ipynb?fbclid=IwAR1KMcFHPJs5St-RMKDHODe7L4bWhVM27j_lDCRmGCBK4tb2lbsWs8E3ocY) 
