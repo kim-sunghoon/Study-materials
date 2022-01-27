@@ -244,6 +244,8 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [Reproducible PyTorch를 위한 randomness 올바르게 제어하기!](https://hoya012.github.io/blog/reproducible_pytorch/?fbclid=IwAR0MCyMMw-Q1gcrE8HIoVSk842ict52DhoswoWBqzjd1tdG0lq4BXzwk_IE)
 * [PyTorch Multi-GPU 제대로 학습하기](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
 * [albumentations - fast image augmentation library 소개 및 사용법 Tutorial](https://hoya012.github.io/blog/albumentation_tutorial/)
+* [2022_the_annotated_transformer](https://github.com/serotoninpm/2022_the_annotated_transformer)
+
 ---
 ## AutoML
 * 🥇 [**pycaret**](https://pycaret.org/)
