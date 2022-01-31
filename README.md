@@ -7,11 +7,12 @@
 협업에서도 중요한 역할을 합니다. [Summary-1](https://github.com/KennethanCeyer/tutorial-git) & [Summary-2 | 웹말고 다운 받아 보세요](https://www.slideshare.net/IldooKim/170209-github-introduction-korean-version)
 
 아래의 강좌를 추천합니다. GUI 때문에 Window에선 Souretree를 이용하면 편리하고, 서버에서는 Git CLI 명령어를 숙지하시면 됩니다. 
-
+ 
 * [Sourcetree 및 Git 기초](https://www.inflearn.com/course/git-and-github/)  
 * [지옥에서 돌아온 Git](https://www.inflearn.com/course/%EC%A7%80%EC%98%A5%EC%97%90%EC%84%9C-%EC%98%A8-git/)
 * [버전관리시스템 Git](https://www.inflearn.com/course/git-2/)
 * [GitHub Cheat Sheet](https://github.com/yunho0130/github-cheat-sheet/blob/master/README.ko.md) 
+* https://learngitbranching.js.org/?locale=ko 
 
 ## X-Shell을 통해 서버 접속하기
 서버에 접속하기 위해 터미널(X-Shell, Putty 등)을 이용합니다. 
