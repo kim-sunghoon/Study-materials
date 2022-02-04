@@ -330,6 +330,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 ---
 ## Other Tools
 * [arxive - Chrome 웹 스토어 (google.com) arxive 논문 저장용이](https://chrome.google.com/webstore/detail/arxive/hkoblclipggkhhbllgefhnbjdcajmelh) 
+* [가상화 입문: 가상머신과 도커를 구분하지 못하는 사람을 위하여](https://velog.io/@skynet/%EA%B0%80%EC%83%81%ED%99%94-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0%EA%B3%BC-%EB%8F%84%EC%BB%A4%EB%A5%BC-%EA%B5%AC%EB%B6%84%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%98%EC%97%AC) 
 * [PowerPoint](https://www.inflearn.com/course/%ED%8C%8C%EC%9B%8C%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EA%B0%95%EC%A2%8C-quick-start/)
 * [PPT 만들기: 생각부터 PPT 문서까지 전부 보여드립니다!](https://youtu.be/TCNioTWZWCQ) 
 * [Excel](https://www.inflearn.com/course/%EC%97%91%EC%85%80-%EA%B0%95%EC%A2%8C/) & [엑셀 대시보드 만들기](https://www.youtube.com/watch?v=bDOG_uzn0_g)
