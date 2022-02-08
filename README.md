@@ -1,5 +1,4 @@
 # Study materials 
-@ [CAD and SoC Design Lab in POSTECH](http://csdl.postech.ac.kr)
 
 # 📖 1. Tools 
 ## Git 
