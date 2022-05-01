@@ -229,7 +229,9 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * 🌸 https://github.com/jungwoo-ha/WeeklyArxivTalk
 * https://github.com/sangyun884/Diffusion-Models-Seminar
 * https://github.com/labmlai/annotated_deep_learning_paper_implementations
-* Pyon 2021 머신러닝 엔지니어 커리어 로드맵: https://youtu.be/XM4hBpSylpM
+* Pycon 2021 머신러닝 엔지니어 커리어 로드맵: https://youtu.be/XM4hBpSylpM
+* 《머신러닝·딥러닝 문제해결 전략》- https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy
+
 
 ## [PyTorch](pytorch.org)
 * [KAIST 딥러닝 홀로서기 세미나 2019 Pytorch](https://github.com/heartcored98/Standalone-DeepLearning)
