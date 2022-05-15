@@ -278,6 +278,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
   2. NIPS2020 ON CONCEPT-BASED EXPLANATIONS IN DEEP NEURAL NETWORKS https://www.youtube.com/watch?v=-l8vqkCu91M 
 ## MLOps
 * https://github.com/graviraja/MLOps-Basics 
+* https://github.com/EthicalML/awesome-production-machine-learning 
 
 
 ---
