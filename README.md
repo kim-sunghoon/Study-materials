@@ -355,7 +355,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [How to write a good review: CVPR 2020 Tutorial](https://www.youtube.com/watch?v=W1zPtTt43LI&feature=youtu.be&fbclid=IwAR2PLlRaxAAsLXfbRqsSY8pw6kHY5UEjWj27sySMeLsVQ93Tq9otQQ0ZyjA)
 * [how-machine-learning-teams-share-and-reuse-features](https://www.tecton.ai/blog/how-machine-learning-teams-share-and-reuse-features/)
 * [인재가 떠나는 조직의 공통점 9가지](https://www.ciokorea.com/news/138296)
-
+* [A Short Chronology Of Deep Learning For Tabular Data](https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html) 
 
 
 
