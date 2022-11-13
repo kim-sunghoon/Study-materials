@@ -209,6 +209,11 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [python GUI Programming](https://www.youtube.com/watch?v=bKPIcoou9N8&t=1733s) 
 * [파이썬 라이브러리, 점프투파이선 저자 박응용님](https://wikidocs.net/book/5445)
 * [파이썬 알고리즘 인터뷰](https://github.com/onlybooks/algorithm-interview) 
+
+## Design Pattern 
+* https://github.com/rebuild-123/Python-Head-First-Design-Patterns 
+* https://github.com/tim-ts-chu/design-pattern 
+
 ---
 
 # 4. Application: Deep Learning 
@@ -232,6 +237,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * Pycon 2021 머신러닝 엔지니어 커리어 로드맵: https://youtu.be/XM4hBpSylpM
 * 《머신러닝·딥러닝 문제해결 전략》- https://github.com/BaekKyunShin/musthave_mldl_problem_solving_strategy
 * best-of-ml-python: https://github.com/ml-tooling/best-of-ml-python
+* Think Bayes 2: https://allendowney.github.io/ThinkBayes2/index.html 
 
 
 ## [PyTorch](pytorch.org)
@@ -249,6 +255,7 @@ Screen은 리눅스에서 코드를 장시간 안정적으로 돌리기 위해 �
 * [PyTorch Multi-GPU 제대로 학습하기](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
 * [albumentations - fast image augmentation library 소개 및 사용법 Tutorial](https://hoya012.github.io/blog/albumentation_tutorial/)
 * [2022_the_annotated_transformer](https://github.com/serotoninpm/2022_the_annotated_transformer)
+* [tunib-ai/large-scale-lm-tutorials: Large-scale language modeling tutorials with PyTorch](https://github.com/tunib-ai/large-scale-lm-tutorials)
 
 ---
 ## AutoML
